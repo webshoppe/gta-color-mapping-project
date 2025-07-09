@@ -67,12 +67,9 @@ For the most reliable and visually accurate experience, especially when referenc
 
 ### For Modders & Developers
 
-**Get the latest vehicle ID mappings**
-curl -O https://raw.githubusercontent.com/YOUR-USERNAME/gta-color-mapping-database/main/data/csv/vehicle_model_mapping_full.csv
-
-**Or clone everything for local development**
-git clone https://github.com/YOUR-USERNAME/gta-color-mapping-database.git
-cd gta-color-mapping-database
+**Clone everything for local development**
+git clone https://github.com/webshoppe/gta-color-mapping-project.git
+cd gta-color-mapping-project
 
 **Set up Python environment for data processing**
 `python -m venv venv`
