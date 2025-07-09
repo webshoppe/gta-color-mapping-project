@@ -1,0 +1,35 @@
+GTA Color Mapping Project,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+"
+Comprehensive, user-friendly cross-reference for all vehicle color-related data in GTA Online, including official, custom, crew and other color types.  
+Developed for enthusiasts who need reliable, sortable, and visually rich color mapping.  
+Data is collected and consolidated from multiple sources (Fandom Wiki, GTABase, Imgur, Wayback Machine, archive.today, joonasprkl archives, GTAForums community, Se7enSins community, Discord, personal/shared collections).  
+Each color category/type has its own sheet, with standardized columns for ID, Color Name, Hex (Web RGB), RGB, Paint Chip, Preview Image (or placeholder) and Notes.  
+Each color has a paint chip or color chip swatch that corresonds with the hex value and the cells are bucket filled to match.  
+Images are downloaded, renamed by ID, name and hex, resized to a fixed 200px width (maintaining aspect ratio), and imported into the appropriate sheet.  
+Row heights and column widths are set for readability and to match image dimensions. Source attribution is provided via ref source urls, footers, or an info sheet. 
+The project is modular, with large workbooks split for manageability and is intended to be shared, torn apart and built upon. Basic files, workbooks and documentation are published on GitHub.
+",,,,,
+Table of Contents,,,,,
+This Table of Contents (TOC) provides an overview of all color sheets in this workbook.,,,,,
+Navigation: Click a sheet name below to jump to that sheet (if hyperlinks are enabled).,,,,,
+,,,,,
+Sheet Name,Number of Rows,Description,Group ID,Last Updated,Status
+Base,223,"Comprehensive color data by ID for the official colors, Includes hex and rgb values, default pearl (when purchased), paint chip and color swatches with notes/unlock requirements and assorted reference information.",Base,2025-07-04 00:00:00,
+Custom,477,"Custom colors, with hex and rgb values, crew codes (if known), swatches, preview image placeholders and notes.",Custom,2025-07-04 00:00:00,
+Crew,1215,"Unnamed Hex/RGB Crew colors with swatches and known crew codes, preview image placeholders and notes",Crew,2025-07-04 00:00:00,
+Livery,3250,"Liveries w/ matching colors reformated from the GTA V Matching Livery Colors Wayback Machine archives. 
+( This data has been rebuilt from the Wayback Machine archive of joonasprkl.github.io/liverycolors/, captured on October 19, 2020, at 02:31:08 AM UTC. You can view the original archived page at https://web.archive.org/web/20201019023108/https://joonasprkl.github.io/liverycolor )",Livery,2025-07-04 00:00:00,
+Headlight,13,"Headlight colors with hex and rgb values, swatches, preview image placeholders and notes.",Headlight,2025-07-04 00:00:00,
+Neon Light,14,"Neon light colors with hex and rgb values, swatches, preview image placeholders and unlock requirements.",Neon Light,2025-07-04 00:00:00,
+Tire Smoke,15,"Tire smoke colors with swatches hex and rgb values, some preview images and unlock requirements.",Tire Smoke,2025-07-04 00:00:00,
+Chameleon,62,"Chameleon colors with default pearl (when purchased), swatches and some preview images.",Chameleon,2025-07-04 00:00:00,
+Pearlescent,75,"Pearlescent colors with hex and rgb values, swatches, some preview images and unlock requirements.",Pearlescent,2025-07-04 00:00:00,
+Wheel,59,"Wheel colors with hex and rgb values, swatches, some preview images and unlock requirements.",Wheel,2025-07-04 00:00:00,
+Accent,49,"Accent and Dial colors with hex and rgb values, swatches, some preview images and unlock requirements.",Accent,2025-07-04 00:00:00,
+Trim,68,"Trim colors with hex and rgb values, swatches, some preview images and unlock requirements and notes.",Trim,2025-07-04 00:00:00,
+Chrome,1,"Chrome colors with hex and rgb values, swatches, preview image placeholders and unlock requirements.",Chrome,2025-07-04 00:00:00,
+Classic,76,"Classic group with default pearl (when purchased), hex and rgb values, swatches, preview image placeholder and unlock requirements.",Classic,2025-07-04 00:00:00,
+Matte,20,"Matte colors with hex and rgb values, swatches, preview image placeholders and notes/unlock requirements.",Matte,2025-07-04 00:00:00,
+Metallic,76,"Metallics group with default pearl (when purchased), hex and rgb values, swatches, preview image placeholder and notes/unlock requirements.",Metallic,2025-07-04 00:00:00,
+Metals,5,"Metals colors with hex and rgb values, swatches, preview image placeholder and unlock requirements.",Metals,2025-07-04 00:00:00,
+References,223,General cross-reference sheet for the official colors.,,2025-07-04 00:00:00,

@@ -1,0 +1,137 @@
+ID,Color Name,Hex (Web RGB),R,G,B,Paint Chip,Preview Image,Unlock Requirement,Color (id),Group ID,Reference Sources
+0,Black,#080808,8,8,8,000_black_080808.png,000_trim_black_080808.png,,Black (id=0),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/7/71/Respray-GTAV-TrimColor-Black.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+1,Graphite,#0F0F0F,15,15,15,001_carbon-black-graphite_0f0f0f.png,001_trim_graphite_0f0f0f.png,Rank 7,Graphite (id=1),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/e/ed/Respray-GTAV-TrimColor-Graphite.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+11,Anthracite Black,#121110,18,17,16,011_anthracite-black_121110.png,011_trim_anthracite-black_121110.png,,Anthracite Black (id=11),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/d/d8/Respray-GTAV-TrimColor-AnthraciteBlack.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+2,Black Steel,#1C1E21,28,30,33,002_black-steel_1c1e21.png,002_trim_black-steel_1c1e21.png,10 Race Wins,Black Steel (id=2),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/9/9c/Respray-GTAV-TrimColor-BlackSteel.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+3,Dark Steel,#292C2E,41,44,46,003_dark-steel_292c2e.png,003_trim_dark-steel_292c2e.png,Rank 7,Dark Steel (id=3),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/4/49/Respray-GTAV-TrimColor-DarkSteel.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+5,Bluish Silver,#777C87,119,124,135,005_bluish-silver_777c87.png,005_trim_bluish-silver_777c87.png,,Bluish Silver (id=5),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/2/20/Respray-GTAV-TrimColor-BluishSilver.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+6,Rolled Steel,#515459,81,84,89,006_rolled-steel_515459.png,006_trim_rolled-steel_515459.png,Rank 7,Rolled Steel (id=6),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/3/3d/Respray-GTAV-TrimColor-RolledSteel.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+7,Shadow Silver,#323B47,50,59,71,007_shadow-silver_323b47.png,007_trim_shadow-silver_323b47.png,Rank 9,Shadow Silver (id=7),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/7/7a/Respray-GTAV-TrimColor-ShadowSilver.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+8,Stone Silver,#333333,51,51,51,008_stone-silver_333333.png,008_trim_stone-silver_333333.png,50 Best Laps,Stone Silver (id=8),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/8/87/Respray-GTAV-TrimColor-StoneSilver.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+9,Midnight Silver,#1F2226,31,34,38,009_midnight-silver_1f2226.png,009_trim_midnight-silver_1f2226.png,5 Stunt Jumps,Midnight Silver (id=9),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/a/a6/Respray-GTAV-TrimColor-MidnightSilver.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+10,Cast Iron Silver,#23292E,35,41,46,010_cast-iron-silver_23292e.png,010_trim_cast-iron-silver_23292e.png,25 Race Wins,Cast Iron Silver (id=10),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/2/2c/Respray-GTAV-TrimColor-CastIronSilver.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+27,Red,#690000,105,0,0,027_red_690000.png,027_trim_red_690000.png,,Red (id=27),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/9/9f/Respray-GTAV-TrimColor-Red.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+28,Torino Red,#8A0B00,138,11,0,028_torino-red_8a0b00.png,028_trim_torino-red_8a0b00.png,,Torino Red (id=28),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/4/48/Respray-GTAV-TrimColor-TorinoRed.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+150,Lava Red,#6B0B00,107,11,0,150_lava-red_6b0b00.png,150_trim_lava-red_6b0b00.png,Rank 21,Lava Red (id=150),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/c/c9/Respray-GTAV-TrimColor-LavaRed.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+30,Blaze Red,#611009,97,16,9,030_blaze-red_611009.png,030_trim_blaze-red_611009.png,,Blaze Red (id=30),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/6/65/Respray-GTAV-TrimColor-BlazeRed.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+31,Grace Red,#4A0A0A,74,10,10,031_grace-red_4a0a0a.png,031_trim_grace-red_4a0a0a.png,25 Stunt Jumps,Grace Red (id=31),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/e/eb/Respray-GTAV-TrimColor-GraceRed.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+32,Garnet Red,#470E0E,71,14,14,032_garnet-red_470e0e.png,032_trim_garnet-red_470e0e.png,Rank 21,Garnet Red (id=32),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/5/5e/Respray-GTAV-TrimColor-GarnetRed.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+33,Sunset Red,#380C00,56,12,0,033_sunset-red_380c00.png,033_trim_sunset-red_380c00.png,,Sunset Red (id=33),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/8/82/Respray-GTAV-TrimColor-SunsetRed.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+34,Cabernet Red,#26030B,38,3,11,034_cabernet-red_26030b.png,034_trim_cabernet-red_26030b.png,Rank 21,Cabernet Red (id=34),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/9/97/Respray-GTAV-TrimColor-CabernetRed.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+143,Wine Red,#080000,8,0,0,143_wine-red_080000.png,143_trim_wine-red_080000.png,Rank 25,Wine Red (id=143),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/c/c4/Respray-GTAV-TrimColor-WineRed.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+35,Candy Red,#630012,99,0,18,035_candy-red_630012.png,035_trim_candy-red_630012.png,10 Best Laps,Candy Red (id=35),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/b/be/Respray-GTAV-TrimColor-CandyRed.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+137,Pfister Pink,#8F2F55,143,47,85,137_pfister-pink_8f2f55.png,137_trim_pfister-pink_8f2f55.png,,Pfister Pink (id=137),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/d/d1/Respray-GTAV-TrimColor-PfisterPink.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+136,Salmon Pink,#F69799,246,151,153,136_salmon-pink_f69799.png,136_trim_salmon-pink_f69799.png,,Salmon Pink (id=136),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/a/af/Respray-GTAV-TrimColor-SalmonPink.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+36,Sunrise Orange,#802800,128,40,0,036_sunrise-orange_802800.png,036_trim_sunrise-orange_802800.png,Rank 17,Sunrise Orange (id=36),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/7/7e/Respray-GTAV-TrimColor-SunriseOrange.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+38,Orange,#BD4800,189,72,0,038_orange_bd4800.png,038_trim_orange_bd4800.png,Rank 9,Orange (id=38),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/4/4c/Respray-GTAV-TrimColor-Orange.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+138,Bright Orange,#C26610,194,102,16,138_bright-orange_c26610.png,138_trim_bright-orange_c26610.png,Rank 17,Bright Orange (id=138),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/8/8a/Respray-GTAV-TrimColor-BrightOrange.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+90,Bronze,#4A341B,74,52,27,090_bronze-dark-copper_4a341b.png,090_trim_bronze_4a341b.png,Rank 13,Bronze (id=90),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/2/29/Respray-GTAV-TrimColor-Bronze.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+88,Yellow,#F5890F,245,137,15,088_yellow_f5890f.png,088_trim_yellow_f5890f.png,,Yellow (id=88),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/3/3c/Respray-GTAV-TrimColor-Yellow.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+89,Race Yellow,#D9A600,217,166,0,089_race-yellow_d9a600.png,089_trim_race-yellow_d9a600.png,Rank 13,Race Yellow (id=89),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/3/3c/Respray-GTAV-TrimColor-RaceYellow.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+91,Dew Yellow,#A2A827,162,168,39,091_dew-yellow-yellow-bird_a2a827.png,091_trim_dew-yellow_a2a827.png,,Dew Yellow (id=91),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/b/bd/Respray-GTAV-TrimColor-DewYellow.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+49,Dark Green,#001207,0,18,7,049_dark-green_001207.png,049_trim_dark-green_001207.png,,Dark Green (id=49),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/5/5d/Respray-GTAV-TrimColor-DarkGreen.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+50,Racing Green,#001A0B,0,26,11,050_racing-green_001a0b.png,050_trim_racing-green_001a0b.png,,Racing Green (id=50),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/a/ae/Respray-GTAV-TrimColor-RacingGreen.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+51,Sea Green,#00211E,0,33,30,051_sea-green_00211e.png,051_trim_sea-green_00211e.png,50 Turbo Starts,Sea Green (id=51),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/9/93/Respray-GTAV-TrimColor-SeaGreen.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+52,Olive Green,#1F261E,31,38,30,052_olive-green_1f261e.png,052_trim_olive-green_1f261e.png,,Olive Green (id=52),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/c/ca/Respray-GTAV-TrimColor-OliveGreen.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+53,Bright Green,#003805,0,56,5,053_bright-green-green_003805.png,053_trim_bright-green_003805.png,Rank 9,Bright Green (id=53),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/b/ba/Respray-GTAV-TrimColor-BrightGreen.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+54,Gasoline Green,#0B4145,11,65,69,054_gasoline-green_0b4145.png,054_trim_gasoline-green_0b4145.png,Rank 25,Gasoline Green (id=54),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/b/b4/Respray-GTAV-TrimColor-GasolineGreen.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+92,Lime Green,#568F00,86,143,0,092_lime-green_568f00.png,092_trim_lime-green_568f00.png,Rank 25,Lime Green (id=92),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/6/6b/Respray-GTAV-TrimColor-LimeGreen.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+141,Midnight Blue,#000108,0,1,8,141_midnight-blue_000108.png,141_trim_midnight-blue_000108.png,,Midnight Blue (id=141),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/f/f0/Respray-GTAV-TrimColor-MidnightBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+61,Galaxy Blue,#000D14,0,13,20,061_galaxy-blue_000d14.png,061_trim_galaxy-blue_000d14.png,Rank 13,Galaxy Blue (id=61),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/0/0d/Respray-GTAV-TrimColor-GalaxyBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+62,Dark Blue,#001029,0,16,41,062_dark-blue_001029.png,062_trim_dark-blue_001029.png,Rank 17,Dark Blue (id=62),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/8/84/Respray-GTAV-TrimColor-DarkBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+63,Saxon Blue,#1C2F4F,28,47,79,063_saxon-blue_1c2f4f.png,063_trim_saxon-blue_1c2f4f.png,,Saxon Blue (id=63),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/1/15/Respray-GTAV-TrimColor-SaxonBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+65,Mariner Blue,#3B4E78,59,78,120,065_mariner-blue_3b4e78.png,065_trim_mariner-blue_3b4e78.png,GTA+ / select event weeks,Mariner Blue (id=65),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/5/5f/Respray-GTAV-TrimColor-MarinerBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+66,Harbor Blue,#272D3B,39,45,59,066_harbor-blue_272d3b.png,066_trim_harbor-blue_272d3b.png,GTA+ / select event weeks,Harbor Blue (id=66),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/3/3f/Respray-GTAV-TrimColor-HarborBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+67,Diamond Blue,#95B2DB,149,178,219,067_diamond-blue_95b2db.png,067_trim_diamond-blue_95b2db.png,GTA+ / select event weeks,Diamond Blue (id=67),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/a/ad/Respray-GTAV-TrimColor-DiamondBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+68,Surf Blue,#3E627A,62,98,122,068_surf-blue_3e627a.png,068_trim_surf-blue_3e627a.png,GTA+ / select event weeks,Surf Blue (id=68),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/2/29/Respray-GTAV-TrimColor-SurfBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+69,Nautical Blue,#1C3140,28,49,64,069_nautical-blue_1c3140.png,069_trim_nautical-blue_1c3140.png,GTA+ / select event weeks,Nautical Blue (id=69),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/4/4e/Respray-GTAV-TrimColor-NauticalBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+73,Racing Blue,#0E316D,14,49,109,073_racing-blue_0e316d.png,073_trim_racing-blue_0e316d.png,GTA+ / select event weeks,Racing Blue (id=73),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/d/da/Respray-GTAV-TrimColor-RacingBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+70,Ultra Blue,#0055C4,0,85,196,070_bright-blue-ultra-blue_0055c4.png,070_trim_ultra-blue_0055c4.png,GTA+ / select event weeks,Ultra Blue (id=70),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/8/8b/Respray-GTAV-TrimColor-UltraBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+74,Light Blue,#395A83,57,90,131,074_light-blue_395a83.png,074_trim_light-blue_395a83.png,GTA+ / select event weeks,Light Blue (id=74),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/1/11/Respray-GTAV-TrimColor-LightBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+96,Chocolate Brown,#120D07,18,13,7,096_chocolate-brown_120d07.png,096_trim_chocolate-brown_120d07.png,GTA+ / select event weeks,Chocolate Brown (id=96),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/0/00/Respray-GTAV-TrimColor-ChocolateBrown.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+101,Bison Brown,#221918,34,25,24,101_bison-brown_221918.png,101_trim_bison-brown_221918.png,GTA+ / select event weeks,Bison Brown (id=101),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/0/07/Respray-GTAV-TrimColor-BisonBrown.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+95,Creek Brown,#262117,38,33,23,095_creek-brown-dark-ivory_262117.png,095_trim_creek-brown_262117.png,GTA+ / select event weeks,Creek Brown (id=95),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/0/07/Respray-GTAV-TrimColor-CreekBrown.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+94,Feltzer Brown,#291B06,41,27,6,094_feltzer-brown_291b06.png,094_trim_feltzer-brown_291b06.png,GTA+ / select event weeks,Feltzer Brown (id=94),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/8/81/Respray-GTAV-TrimColor-FeltzerBrown.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+97,Maple Brown,#332111,51,33,17,097_maple-brown_332111.png,097_trim_maple-brown_332111.png,GTA+ / select event weeks,Maple Brown (id=97),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/b/bf/Respray-GTAV-TrimColor-MapleBrown.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+103,Beechwood Brown,#241309,36,19,9,103_dark-beechwood_241309.png,103_trim_beechwood-brown_241309.png,GTA+ / select event weeks,Beechwood Brown (id=103),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/4/45/Respray-GTAV-TrimColor-BeechwoodBrown.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+104,Sienna Brown,#3B1700,59,23,0,104_sienna-brown_3b1700.png,104_trim_sienna-brown_3b1700.png,GTA+ / select event weeks,Sienna Brown (id=104),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/5/5c/Respray-GTAV-TrimColor-SiennaBrown.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+98,Saddle Brown,#3D3023,61,48,35,098_saddle-brown_3d3023.png,098_trim_saddle-brown_3d3023.png,GTA+ / select event weeks,Saddle Brown (id=98),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/4/4f/Respray-GTAV-TrimColor-SaddleBrown.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+100,Moss Brown,#37382B,55,56,43,100_moss-brown_37382b.png,100_trim_moss-brown_37382b.png,GTA+ / select event weeks,Moss Brown (id=100),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/2/2b/Respray-GTAV-TrimColor-MossBrown.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+102,Woodbeech Brown,#575036,87,80,54,102_beechwood_575036.png,102_trim_woodbeech-brown_575036.png,GTA+ / select event weeks,Woodbeech Brown (id=102),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/3/32/Respray-GTAV-TrimColor-WoodbeechBrown.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+99,Straw Brown,#5E5343,94,83,67,099_gold-straw-brown_5e5343.png,099_trim_straw-brown_5e5343.png,Rank 25,Straw Brown (id=99),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/e/ef/Respray-GTAV-TrimColor-StrawBrown.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+105,Sandy Brown,#6E6246,110,98,70,105_sandy-brown_6e6246.png,105_trim_sandy-brown_6e6246.png,Rank 13,Sandy Brown (id=105),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/f/f0/Respray-GTAV-TrimColor-SandyBrown.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+106,Bleached Brown,#998D73,153,141,115,106_bleached-brown_998d73.png,106_trim_bleached-brown_998d73.png,Rank 13,Bleached Brown (id=106),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/e/e5/Respray-GTAV-TrimColor-BleachedBrown.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+72,Spinnaker Purple,#161629,22,22,41,072_spinnaker-purple_161629.png,072_trim_spinnaker-purple_161629.png,Rank 13,Spinnaker Purple (id=72),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/8/8e/Respray-GTAV-TrimColor-SpinnakerPurple.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+146,Midnight Purple,#00080F,0,8,15,146_midnight-purple-v-dark-blue_00080f.png,146_trim_midnight-purple_00080f.png,10 Best Laps,Midnight Purple (id=146),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/8/8f/Respray-GTAV-TrimColor-MidnightPurple.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+145,Bright Purple,#320642,50,6,66,145_bright-purple-schafter-purple_320642.png,145_trim_bright-purple_320642.png,5 Turbo Starts,Bright Purple (id=145),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/0/0a/Respray-GTAV-TrimColor-BrightPurple.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+107,Cream,#CFC0A5,207,192,165,107_cream_cfc0a5.png,107_trim_cream_cfc0a5.png,,Cream (id=107),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/4/46/Respray-GTAV-TrimColor-Cream.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+111,Ice White,#F0F0F0,240,240,240,111_ice-white_f0f0f0.png,111_trim_ice-white_f0f0f0.png,Rank 25,Ice White (id=111),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/5/58/Respray-GTAV-TrimColor-IceWhite.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"
+112,Frost White,#B3B9C9,179,185,201,112_frost-white_b3b9c9.png,112_trim_frost-white_b3b9c9.png,100 Slipstreams,Frost White (id=112),Trim,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/4/49/Respray-GTAV-TrimColor-FrostWhite.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Trim_Color"

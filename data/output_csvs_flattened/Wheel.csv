@@ -1,0 +1,119 @@
+ID,Color Name,Hex (Web RGB),R,G,B,Paint Chip,Preview Image,Unlock Requirement,Color (id),Group ID,Reference Sources
+0,Black,#080808,8,8,8,000_black_080808.png,000_wheel_black_080808.png,,Black (id=0),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/8/81/Respray-GTAV-Wheel-Black.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+1,Carbon Black,#0F0F0F,15,15,15,001_carbon-black-graphite_0f0f0f.png,001_wheel_carbon-black_0f0f0f.png,Rank 7,"Graphite, Carbon Black (id=1)",Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/6/6d/Respray-GTAV-Wheel-CarbonBlack.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+2,Black Steel,#1C1E21,28,30,33,002_black-steel_1c1e21.png,002_wheel_black-steel_1c1e21.png,,Black Steel (id=2),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/0/08/Respray-GTAV-Wheel-BlackSteel.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+8,Stone Silver,#333333,51,51,51,008_stone-silver_333333.png,008_wheel_stone-silver_333333.png,10 Race Wins,Stone Silver (id=8),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/b/b5/Respray-GTAV-Wheel-StoneSilver.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+11,Anthracite Black,#121110,18,17,16,011_anthracite-black_121110.png,011_wheel_anthracite-black_121110.png,Rank 7,Anthracite Black (id=11),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/8/8b/Respray-GTAV-Wheel-AnthraciteBlack.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+27,Red,#690000,105,0,0,027_red_690000.png,027_wheel_red_690000.png,,Red (id=27),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/6/6e/Respray-GTAV-Wheel-Red.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+30,Blaze Red,#611009,97,16,9,030_blaze-red_611009.png,030_wheel_blaze-red_611009.png,Rank 7,Blaze Red (id=30),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/a/a3/Respray-GTAV-Wheel-BlazeRed.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+33,Sunset Red,#380C00,56,12,0,033_sunset-red_380c00.png,033_wheel_sunset-red_380c00.png,Rank 9,Sunset Red (id=33),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/6/61/Respray-GTAV-Wheel-SunsetRed.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+35,Candy Red,#630012,99,0,18,035_candy-red_630012.png,035_wheel_candy-red_630012.png,50 Best Laps,Candy Red (id=35),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/f/f8/Respray-GTAV-Wheel-CandyRed.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+36,Sunrise Orange,#802800,128,40,0,036_sunrise-orange_802800.png,036_wheel_sunrise-orange_802800.png,5 Stunt Jumps,Sunrise Orange (id=36),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/d/dc/Respray-GTAV-Wheel-SunriseOrange.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+37,Gold,#6E4F2D,110,79,45,037_gold_6e4f2d.png,037_wheel_gold_6e4f2d.png,25 Race Wins,Gold (id=37),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/3/34/Respray-GTAV-Wheel-Gold.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+41,Orange,#AB3F00,171,63,0,041_matte-orange-orange_ab3f00.png,041_wheel_orange_ab3f00.png,,Orange (id=41),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/f/f2/Respray-GTAV-Wheel-Orange.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+45,Garnet Red,#4A1000,74,16,0,045_garnet-red-util-garnet-red_4a1000.png,045_wheel_garnet-red_4a1000.png,,Garnet Red (id=45),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/3/34/Respray-GTAV-Wheel-GarnetRed.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+52,Olive Green,#1F261E,31,38,30,052_olive-green_1f261e.png,052_wheel_olive-green_1f261e.png,Rank 21,Olive Green (id=52),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/2/26/Respray-GTAV-Wheel-OliveGreen.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+53,Green,#003805,0,56,5,053_bright-green-green_003805.png,053_wheel_green_003805.png,,"Bright Green, Green (id=53)",Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/b/b0/Respray-GTAV-Wheel-Green.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+55,Lime Green,#418503,65,133,3,055_lime-green-matte-lime-green_418503.png,055_wheel_lime-green_418503.png,25 Stunt Jumps,Lime Green (id=55),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/5/55/Respray-GTAV-Wheel-LimeGreen.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+56,Dark Green,#0F1F15,15,31,21,056_dark-green-util-dark-green_0f1f15.png,056_wheel_dark-green_0f1f15.png,Rank 21,Dark Green (id=56),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/9/97/Respray-GTAV-Wheel-DarkGreen.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+64,Royal Blue,#001B57,0,27,87,064_blue-royal-blue_001b57.png,064_wheel_royal-blue_001b57.png,,"Blue, Royal Blue (id=64)",Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/8/84/Respray-GTAV-Wheel-RoyalBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+70,Bright Blue,#0055C4,0,85,196,070_bright-blue-ultra-blue_0055c4.png,070_wheel_bright-blue_0055c4.png,Rank 21,"Bright Blue, Ultra Blue (id=70)",Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/e/e5/Respray-GTAV-Wheel-BrightBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+81,Slate Blue,#1F1FA1,31,31,161,081_slate-blue-util-bright-blue_1f1fa1.png,081_wheel_slate-blue_1f1fa1.png,Rank 25,Slate Blue (id=81),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/a/a4/Respray-GTAV-Wheel-SlateBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+82,Midnight Blue,#030E2E,3,14,46,082_matte-dark-blue-midnight-blue_030e2e.png,082_wheel_midnight-blue_030e2e.png,10 Best Laps,Midnight Blue (id=82),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/f/f8/Respray-GTAV-Wheel-MidnightBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+87,Baby Blue,#3B6796,59,103,150,087_baby-blue-worn-baby-blue_3b6796.png,087_wheel_baby-blue_3b6796.png,,"Baby Blue, Worn Baby Blue (id=87)",Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/2/2a/Respray-GTAV-Wheel-BabyBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+88,Yellow,#F5890F,245,137,15,088_yellow_f5890f.png,088_wheel_yellow_f5890f.png,,Yellow (id=88),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/6/6d/Respray-GTAV-Wheel-Yellow.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+89,Race Yellow,#D9A600,217,166,0,089_race-yellow_d9a600.png,089_wheel_race-yellow_d9a600.png,Rank 17,Race Yellow (id=89),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/3/34/Respray-GTAV-Wheel-RaceYellow.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+90,Dark Copper,#4A341B,74,52,27,090_bronze-dark-copper_4a341b.png,090_wheel_dark-copper_4a341b.png,Rank 9,"Bronze, Dark Copper (id=90)",Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/2/29/Respray-GTAV-Wheel-DarkCopper.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+91,Yellow Bird,#A2A827,162,168,39,091_dew-yellow-yellow-bird_a2a827.png,091_wheel_yellow-bird_a2a827.png,Rank 17,"Dew Yellow, Yellow Bird (id=91)",Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/d/d8/Respray-GTAV-Wheel-YellowBird.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+95,Dark Ivory,#262117,38,33,23,095_creek-brown-dark-ivory_262117.png,095_wheel_dark-ivory_262117.png,Rank 13,"Creek Brown, Dark Ivory (id=95)",Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/2/27/Respray-GTAV-Wheel-DarkIvory.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+99,Straw Brown,#5E5343,94,83,67,099_gold-straw-brown_5e5343.png,099_wheel_straw-brown_5e5343.png,,"Gold, Straw Brown (id=99)",Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/2/22/Respray-GTAV-Wheel-StrawBrown.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+109,Bronze,#3D311D,61,49,29,109_bronze-util-medium-brown_3d311d.png,109_wheel_bronze_3d311d.png,Rank 13,Bronze (id=109),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/4/45/Respray-GTAV-Wheel-Bronze.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+115,Dark Brown,#171413,23,20,19,115_dark-brown-worn-dark-brown_171413.png,115_wheel_dark-brown_171413.png,,Dark Brown (id=115),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/c/c8/Respray-GTAV-Wheel-DarkBrown.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+122,Frost White,#999999,153,153,153,122_frost-white-util-off-white_999999.png,122_wheel_frost-white_999999.png,,Frost White (id=122),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/c/cc/Respray-GTAV-Wheel-FrostWhite.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+125,Pea Green,#47783C,71,120,60,125_pea-green-securicor-green_47783c.png,125_wheel_pea-green_47783c.png,,"Pea Green, Securicor Green (id=125)",Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/a/ae/Respray-GTAV-Wheel-PeaGreen.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+135,Hot Pink,#B01259,176,18,89,135_hot-pink_b01259.png,135_wheel_hot-pink_b01259.png,50 Turbo Starts,Hot Pink (id=135),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/4/4c/Respray-GTAV-Wheel-HotPink.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+136,Salmon Pink,#F69799,246,151,153,136_salmon-pink_f69799.png,136_wheel_salmon-pink_f69799.png,,Salmon Pink (id=136),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/0/08/Respray-GTAV-Wheel-SalmonPink.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+138,Bright Orange,#C26610,194,102,16,138_bright-orange_c26610.png,138_wheel_bright-orange_c26610.png,Rank 9,Bright Orange (id=138),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/1/1c/Respray-GTAV-Wheel-BrightOrange.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+140,Fluorescent Blue,#00AEEF,0,174,239,140_fluorescent-blue_00aeef.png,140_wheel_fluorescent-blue_00aeef.png,Rank 25,Fluorescent Blue (id=140),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/6/6a/Respray-GTAV-Wheel-FluorescentBlue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+142,Midnight Purple,#050008,5,0,8,142_midnight-purple_050008.png,142_wheel_midnight-purple_050008.png,Rank 25,Midnight Purple (id=142),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/d/d0/Respray-GTAV-Wheel-MidnightPurple.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+145,Schafter Purple,#320642,50,6,66,145_bright-purple-schafter-purple_320642.png,145_wheel_schafter-purple_320642.png,,"Bright Purple, Schafter Purple (id=145)",Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/d/dd/Respray-GTAV-Wheel-SchafterPurple.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+153,Dark Earth,#3B352D,59,53,45,153_dark-earth-matte-dark-earth_3b352d.png,153_wheel_dark-earth_3b352d.png,Rank 13,"Dark Earth, Matte Dark Earth (id=153)",Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/6/67/Respray-GTAV-Wheel-DarkEarth.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+154,Desert Tan,#706656,112,102,86,154_desert-tan-matte-desert-tan_706656.png,154_wheel_desert-tan_706656.png,Rank 17,Desert Tan (id=154),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/3/31/Respray-GTAV-Wheel-DesertTan.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+156,Alloy,#414347,65,67,71,156_alloy-default-alloy-color_414347.png,156_wheel_alloy_414347.png,,Alloy (id=156),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/3/3b/Respray-GTAV-Wheel-Alloy.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+162,Anodized Burgundy Pearl,#6C2B3A,108,43,58,162_anodized-wine_6c2b3a.png,162_wheel_anodized-burgundy-pearl_6c2b3a.png,GTA+ / select event weeks,Anodized Wine (id=162),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/4/45/Respray-GTAOee-Wheel-AnodizedBurgundyPearl.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+166,Anodized Lime Pearl,#9EDC4A,158,220,74,166_anodized-lime_9edc4a.png,166_wheel_anodized-lime-pearl_9edc4a.png,GTA+ / select event weeks,Anodized Lime (id=166),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/e/ec/Respray-GTAOee-Wheel-AnodizedLimePearl.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+167,Anodized Copper Pearl,#B76D3A,183,109,58,167_anodized-copper_b76d3a.png,167_wheel_anodized-copper-pearl_b76d3a.png,GTA+ / select event weeks,Anodized Copper (id=167),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/7/75/Respray-GTAOee-Wheel-AnodizedCopperPearl.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+170,Anodized Gold Pearl,#E1C84A,225,200,74,170_anodized-gold_e1c84a.png,170_wheel_anodized-gold-pearl_e1c84a.png,GTA+ / select event weeks,Anodized Gold (id=170),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/7/71/Respray-GTAOee-Wheel-AnodizedGoldPearl.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+174,Green/Turquoise Flip,#3AA39E,58,163,158,174_green-turqoise-flip_3aa39e.png,174_wheel_green-turquoise-flip_3aa39e.png,GTA+ / select event weeks,Green Turqoise Flip (id=174),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/d/d2/Respray-GTAOee-Wheel-GreenTurquoiseFlip.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+179,Cyan/Red Flip,#3A5CA3,58,92,163,179_cyan-purple-flip_3a5ca3.png,179_wheel_cyan-red-flip_3a5ca3.png,GTA+ / select event weeks,Cyan Purple Flip (id=179),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/d/d2/Respray-GTAOee-Wheel-CyanRedFlip.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+180,Blue/Pink Flip,#A33A6C,163,58,108,180_blue-pink-flip_a33a6c.png,,GTA+ / select event weeks,Blue Pink Flip (id=180),Wheel,"Full Size src: ; 
+Img Ref src: "
+181,Blue/Green Flip,#3AA36C,58,163,108,181_blue-green-flip_3aa36c.png,181_wheel_blue-green-flip_3aa36c.png,GTA+ / select event weeks,Blue Green Flip (id=181),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/e/e1/Respray-GTAOee-Wheel-BlueGreenFlip.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+185,Magenta/Yellow Flip,#A39E3A,163,158,58,185_magenta-yellow-flip_a39e3a.png,185_wheel_magenta-yellow-flip_a39e3a.png,GTA+ / select event weeks,Magenta Yellow Flip (id=185),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/2/20/Respray-GTAOee-Wheel-MagentaYellowFlip.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+194,Red Rainbow Flip,#A33A3A,163,58,58,194_red-rainbow-flip_a33a3a.png,194_wheel_red-rainbow-flip_a33a3a.png,GTA+ / select event weeks,Red Rainbow Flip (id=194),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/5/58/Respray-GTAOee-Wheel-RedRainbowFlip.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+203,Light Purple Pearl,#D9A3E1,217,163,225,203_light-purple-pearl_d9a3e1.png,203_wheel_light-purple-pearl_d9a3e1.png,GTA+ / select event weeks,Light Purple Pearl (id=203),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/d/de/Respray-GTAOee-Wheel-LightPurplePearl.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+205,Off White Pearl,#F2F2E6,242,242,230,205_off-white-pearl_f2f2e6.png,205_wheel_off-white-pearl_f2f2e6.png,GTA+ / select event weeks,Off White Pearl (id=205),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/3/3f/Respray-GTAOee-Wheel-OffWhitePearl.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+210,Cream Pearl,#E1E1A3,225,225,163,210_cream-pearl_e1e1a3.png,210_wheel_cream-pearl_e1e1a3.png,GTA+ / select event weeks,Cream Pearl (id=210),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/a/a1/Respray-GTAOee-Wheel-CreamPearl.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+211,White Prismatic Pearl,#FFFFFF,255,255,255,211_white-prismatic_ffffff.png,211_wheel_white-prismatic-pearl_ffffff.png,GTA+ / select event weeks,White Prismatic (id=211),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/5/58/Respray-GTAOee-Wheel-WhitePrismaticPearl.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+212,Graphite Prismatic Pearl,#6C6C6C,108,108,108,212_graphite-prismatic_6c6c6c.png,212_wheel_graphite-prismatic-pearl_6c6c6c.png,GTA+ / select event weeks,Graphite Prismatic (id=212),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/b/bb/Respray-GTAOee-Wheel-GraphitePrismaticPearl.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+215,Pink Prismatic Pearl,#E1A3C8,225,163,200,215_hot-pink-prismatic_e1a3c8.png,215_wheel_pink-prismatic-pearl_e1a3c8.png,GTA+ / select event weeks,Hot Pink Prismatic (id=215),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/5/59/Respray-GTAOee-Wheel-PinkPrismaticPearl.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+218,Black Prismatic Pearl,#2B2B2B,43,43,43,218_black-prismatic_2b2b2b.png,218_wheel_black-prismatic-pearl_2b2b2b.png,GTA+ / select event weeks,Black Prismatic (id=218),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/6/67/Respray-GTAOee-Wheel-BlackPrismaticPearl.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"
+221,Dark Holographic,#2B2B2B,43,43,43,221_black-holographic_2b2b2b.png,221_wheel_dark-holographic_2b2b2b.png,GTA+ / select event weeks,Dark Holographic (id=221),Wheel,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/3/3f/Respray-GTAOee-Wheel-DarkHolographic.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Wheel_Color"

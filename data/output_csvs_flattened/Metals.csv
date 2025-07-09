@@ -1,0 +1,6 @@
+ID,Color Name,Hex (Web RGB),R,G,B,Default Pearl (when purchased),Paint Chip,Preview Image,Unlock Requirement,Color (id),Group ID,Reference Sources
+117,Brushed Steel,#3B4045,59,64,69,,117_brushed-steel_3b4045.png,(no preview),Rally Race Win,Brushed Steel (id=117),Metals,
+118,Brushed Black Steel,#1A1E21,26,30,33,,118_brushed-black-steel_1a1e21.png,(no preview),Rally Race Win,Brushed Black Steel (id=118),Metals,
+119,Brushed Aluminum,#5E646B,94,100,107,,119_brushed-aluminium_5e646b.png,(no preview),Rally Race Win,Brushed Aluminum (id=119),Metals,
+158,Pure Gold,#47391B,71,57,27,MP100 Gold Spec (id=160),158_pure-gold_47391b.png,(no preview),Rank 100,Pure Gold (id=158),Metals,
+159,Brushed Gold,#47391B,71,57,27,MP100 Gold Spec (id=160),159_brushed-gold_47391b.png,(no preview),Rank 100,Brushed Gold (id=159),Metals,

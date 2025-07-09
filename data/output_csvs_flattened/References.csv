@@ -1,0 +1,506 @@
+ID,Description,Color Name,Color Name (combined),Color (id),Hex (Web RGB),R,G,B,Default Pearl (when purchased),Paint Chip,Swatch Filename,Color Groups,Color Categories,Refs_img_src,Base img src url cleaned,Base img src url ref page
+0,Metallic Black,Black,Black / Metallic Black,Black (id=0),#080808,8,8,8,Cast Iron Silver (id=10),000_black_080808.png,000_black_080808.png,Classic; Metallic; Pearlescent,Base; Trim; Wheel,"000_base_080808.png; 
+000_pearlescent_black_080808.png; 
+000_trim_black_080808.png; 
+000_wheel_black_080808.png;; ",https://static.wikia.nocookie.net/gtawiki/images/b/b2/Carcol-GTAV-0.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+1,Metallic Graphite Black,"Graphite, Carbon Black","Graphite, Carbon Black / Metallic Graphite Black",Carbon Black (id=1),#0F0F0F,15,15,15,Bluish Silver (id=5),001_carbon-black-graphite_0f0f0f.png,001_carbon-black-graphite_0f0f0f.png,Classic; Metallic; Pearlescent,Base; Trim; Wheel,"001_base_0f0f0f.png; 
+001_pearlescent_graphite_0f0f0f.png; 
+001_trim_graphite_0f0f0f.png; 
+001_wheel_carbon-black_0f0f0f.png;; ",https://static.wikia.nocookie.net/gtawiki/images/0/0d/Carcol-GTAV-1.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+2,Metallic Black Steel,Black Steel,Black Steel / Metallic Black Steel,Black Steel (id=2),#1C1E21,28,30,33,Bluish Silver (id=5),002_black-steel_1c1e21.png,002_black-steel_1c1e21.png,Classic; Metallic; Pearlescent,Base; Trim; Wheel,"002_base_1c1e21.png; 
+002_pearlescent_black-steel_1c1e21.png; 
+002_trim_black-steel_1c1e21.png; 
+002_wheel_black-steel_1c1e21.png;; ",https://static.wikia.nocookie.net/gtawiki/images/f/f4/Carcol-GTAV-2.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+3,Metallic Dark Silver,Dark Steel,Dark Steel / Metallic Dark Silver,Dark Steel (id=3),#292C2E,41,44,46,Rolled Steel (id=6),003_dark-steel_292c2e.png,003_dark-steel_292c2e.png,Classic; Metallic; Pearlescent,Base,"003_base_292c2e.png; 
+003_pearlescent_dark-steel_292c2e.png; 
+003_trim_dark-steel_292c2e.png;; ",https://static.wikia.nocookie.net/gtawiki/images/c/c5/Carcol-GTAV-3.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+4,Metallic Silver,Silver,Silver / Metallic Silver,Silver (id=4),#5A5E66,90,94,102,Ice White (id=111),004_silver_5a5e66.png,004_silver_5a5e66.png,Classic; Metallic; Pearlescent,Accent; Base,"004_accent_silver_5a5e66.png; 
+004_base_5a5e66.png; 
+004_pearlescent_silver_5a5e66.png;; ",https://static.wikia.nocookie.net/gtawiki/images/c/c8/Carcol-GTAV-4.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+5,Metallic Blue Silver,Bluish Silver,Bluish Silver / Metallic Blue Silver,Bluish Silver (id=5),#777C87,119,124,135,Ice White (id=111),005_bluish-silver_777c87.png,005_bluish-silver_777c87.png,Classic; Metallic; Pearlescent,Accent; Base,"005_accent_bluish-silver_777c87.png; 
+005_base_777c87.png; 
+005_pearlescent_bluish-silver_777c87.png; 
+005_trim_bluish-silver_777c87.png;; ",https://static.wikia.nocookie.net/gtawiki/images/a/a7/Carcol-GTAV-5.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+6,Metallic Steel Gray,Rolled Steel,Rolled Steel / Metallic Steel Gray,Rolled Steel (id=6),#515459,81,84,89,Silver (id=4),006_rolled-steel_515459.png,006_rolled-steel_515459.png,Classic; Metallic; Pearlescent,Accent; Base,"006_accent_rolled-steel_515459.png; 
+006_base_515459.png; 
+006_pearlescent_rolled-steel_515459.png; 
+006_trim_rolled-steel_515459.png;; ",https://static.wikia.nocookie.net/gtawiki/images/9/98/Carcol-GTAV-6.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+7,Metallic Shadow Silver,Shadow Silver,Shadow Silver / Metallic Shadow Silver,Shadow Silver (id=7),#323B47,50,59,71,Bluish Silver (id=5),007_shadow-silver_323b47.png,007_shadow-silver_323b47.png,Classic; Metallic; Pearlescent,Accent; Base,"007_accent_shadow-silver_323b47.png; 
+007_base_323b47.png; 
+007_pearlescent_shadow-silver_323b47.png; 
+007_trim_shadow-silver_323b47.png;; ",https://static.wikia.nocookie.net/gtawiki/images/a/a5/Carcol-GTAV-7.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+8,Metallic Stone Silver,Stone Silver,Stone Silver / Metallic Stone Silver,Stone Silver (id=8),#333333,51,51,51,Bluish Silver (id=5),008_stone-silver_333333.png,008_stone-silver_333333.png,Classic; Metallic; Pearlescent,Base; Trim; Wheel,"008_base_333333.png; 
+008_pearlescent_stone-silver_333333.png; 
+008_trim_stone-silver_333333.png; 
+008_wheel_stone-silver_333333.png;; ",https://static.wikia.nocookie.net/gtawiki/images/a/a8/Carcol-GTAV-8.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+9,Metallic Midnight Silver,Midnight Silver,Midnight Silver / Metallic Midnight Silver,Midnight Silver (id=9),#1F2226,31,34,38,Shadow Silver (id=7),009_midnight-silver_1f2226.png,009_midnight-silver_1f2226.png,Classic; Metallic; Pearlescent,Base,"009_base_1f2226.png; 
+009_pearlescent_midnight-silver_1f2226.png; 
+009_trim_midnight-silver_1f2226.png;; ",https://static.wikia.nocookie.net/gtawiki/images/f/f5/Carcol-GTAV-9.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+10,Metallic Gun Metal,Cast Iron Silver,Cast Iron Silver / Metallic Gun Metal,Cast Iron Silver (id=10),#23292E,35,41,46,Shadow Silver (id=7),010_cast-iron-silver_23292e.png,010_cast-iron-silver_23292e.png,Classic; Metallic; Pearlescent,Base,"010_base_23292e.png; 
+010_pearlescent_cast-iron-silver_23292e.png; 
+010_trim_cast-iron-silver_23292e.png;; ",https://static.wikia.nocookie.net/gtawiki/images/9/9c/Carcol-GTAV-10.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+11,Metallic Anthracite Grey,Anthracite Black,Anthracite Black / Metallic Anthracite Grey,Anthracite Black (id=11),#121110,18,17,16,Black Steel (id=2),011_anthracite-black_121110.png,011_anthracite-black_121110.png,Classic; Metallic; Pearlescent,Base; Trim; Wheel,"011_base_121110.png; 
+011_pearlescent_anthracite-black_121110.png; 
+011_trim_anthracite-black_121110.png; 
+011_wheel_anthracite-black_121110.png;; ",https://static.wikia.nocookie.net/gtawiki/images/d/d7/Carcol-GTAV-11.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+12,Matte Black,Matte Black,Matte Black / Matte Black,Black (id=12),#050505,5,5,5,,012_matte-black_050505.png,012_matte-black_050505.png,Matte,Base,012_base_050505.png; ,https://static.wikia.nocookie.net/gtawiki/images/f/f4/Carcol-GTAV-12.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+13,Matte Gray,Matte Gray,Matte Gray / Matte Gray,Gray (id=13),#121212,18,18,18,,013_matte-gray_121212.png,013_matte-gray_121212.png,Matte,Base,013_base_121212.png; ,https://static.wikia.nocookie.net/gtawiki/images/2/2f/Carcol-GTAV-13.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+14,Matte Light Grey,Matte Light Gray,Matte Light Gray / Matte Light Grey,Light Gray (id=14),#2F3233,47,50,51,,014_matte-light-gray_2f3233.png,014_matte-light-gray_2f3233.png,Matte,Base,014_base_2f3233.png; ,https://static.wikia.nocookie.net/gtawiki/images/9/9b/Carcol-GTAV-14.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+15,Util Black,Util Black,Util Black / Util Black,Util Black (id=15),#080808,8,8,8,,015_util-black_080808.png,015_util-black_080808.png,,Base,015_base_080808.png; ,https://static.wikia.nocookie.net/gtawiki/images/0/0a/Carcol-GTAV-15.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+16,Util Black Poly,Util Black Poly,Util Black Poly / Util Black Poly,Util Black Poly (id=16),#121212,18,18,18,,016_util-black-poly_121212.png,016_util-black-poly_121212.png,,Base,016_base_121212.png; ,https://static.wikia.nocookie.net/gtawiki/images/5/57/Carcol-GTAV-16.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+17,Util Dark Silver,Util Dark Silver,Util Dark Silver / Util Dark Silver,Util Dark Silver (id=17),#202224,32,34,36,,017_util-dark-silver_202224.png,017_util-dark-silver_202224.png,,Base,017_base_202224.png; ,https://static.wikia.nocookie.net/gtawiki/images/1/1c/Carcol-GTAV-17.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+18,Util Silver,Util Silver,Util Silver / Util Silver,Util Silver (id=18),#575961,87,89,97,,018_util-silver_575961.png,018_util-silver_575961.png,,Base,018_base_575961.png; ,https://static.wikia.nocookie.net/gtawiki/images/b/b2/Carcol-GTAV-18.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+19,Util Gun Metal,Util Gun Metal,Util Gun Metal / Util Gun Metal,Util Gun Metal (id=19),#23292E,35,41,46,,019_util-gun-metal_23292e.png,019_util-gun-metal_23292e.png,,Base,019_base_23292e.png; ,https://static.wikia.nocookie.net/gtawiki/images/3/3b/Carcol-GTAV-19.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+20,Util Shadow Silver,Util Shadow Silver,Util Shadow Silver / Util Shadow Silver,Util Shadow Silver (id=20),#323B47,50,59,71,,020_util-shadow-silver_323b47.png,020_util-shadow-silver_323b47.png,,Base,020_base_323b47.png; ,https://static.wikia.nocookie.net/gtawiki/images/a/ac/Carcol-GTAV-20.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+21,Worn Black,Worn Black,Worn Black / Worn Black,Worn Black (id=21),#0F1012,15,16,18,,021_worn-black_0f1012.png,021_worn-black_0f1012.png,,Base,021_base_0f1012.png; ,https://static.wikia.nocookie.net/gtawiki/images/b/b2/Carcol-GTAV-21.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+22,Worn Graphite,Worn Graphite,Worn Graphite / Worn Graphite,Worn Graphite (id=22),#212121,33,33,33,,022_worn-graphite_212121.png,022_worn-graphite_212121.png,,Base,022_base_212121.png; ,https://static.wikia.nocookie.net/gtawiki/images/8/82/Carcol-GTAV-22.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+23,Worn Silver Grey,Worn Silver Grey,Worn Silver Grey / Worn Silver Grey,Worn Silver Grey (id=23),#5B5D5E,91,93,94,,023_worn-silver-grey_5b5d5e.png,023_worn-silver-grey_5b5d5e.png,,Base,023_base_5b5d5e.png; ,https://static.wikia.nocookie.net/gtawiki/images/5/5f/Carcol-GTAV-23.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+24,Worn Silver,Worn Silver,Worn Silver / Worn Silver,Worn Silver (id=24),#888A99,136,138,153,,024_worn-silver_888a99.png,024_worn-silver_888a99.png,,Base,024_base_888a99.png; ,https://static.wikia.nocookie.net/gtawiki/images/3/34/Carcol-GTAV-24.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+25,Worn Blue Silver,Worn Blue Silver,Worn Blue Silver / Worn Blue Silver,Worn Blue Silver (id=25),#697187,105,113,135,,025_worn-blue-silver_697187.png,025_worn-blue-silver_697187.png,,Base,025_base_697187.png; ,https://static.wikia.nocookie.net/gtawiki/images/a/a2/Carcol-GTAV-25.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+26,Worn Shadow Silver,Worn Shadow Silver,Worn Shadow Silver / Worn Shadow Silver,Worn Shadow Silver (id=26),#3B4654,59,70,84,,026_worn-shadow-silver_3b4654.png,026_worn-shadow-silver_3b4654.png,,Base,026_base_3b4654.png; ,https://static.wikia.nocookie.net/gtawiki/images/d/d7/Carcol-GTAV-26.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+27,Metallic Red,Red,Red / Metallic Red,Red (id=27),#690000,105,0,0,Sunrise Orange (id=36),027_red_690000.png,027_red_690000.png,Classic; Metallic; Pearlescent,Accent; Base; Trim; Wheel,"027_accent_red_690000.png; 
+027_base_690000.png; 
+027_pearlescent_red_690000.png; 
+027_trim_red_690000.png; 
+027_wheel_red_690000.png;; ",https://static.wikia.nocookie.net/gtawiki/images/b/bb/Carcol-GTAV-27.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+28,Metallic Torino Red,Torino Red,Torino Red / Metallic Torino Red,Torino Red (id=28),#8A0B00,138,11,0,Torino Red (id=28),028_torino-red_8a0b00.png,028_torino-red_8a0b00.png,Classic; Metallic; Pearlescent,Accent; Base,"028_accent_torino-red_8a0b00.png; 
+028_base_8a0b00.png; 
+028_pearlescent_torino-red_8a0b00.png; 
+028_trim_torino-red_8a0b00.png;; ",https://static.wikia.nocookie.net/gtawiki/images/6/68/Carcol-GTAV-28.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+29,Metallic Formula Red,Formula Red,Formula Red / Metallic Formula Red,Formula Red (id=29),#6B0000,107,0,0,Torino Red (id=28),029_formula-red_6b0000.png,029_formula-red_6b0000.png,Classic; Metallic; Pearlescent,Accent; Base,"029_accent_formula-red_6b0000.png; 
+029_base_6b0000.png; 
+029_pearlescent_formula-red_6b0000.png;; ",https://static.wikia.nocookie.net/gtawiki/images/9/98/Carcol-GTAV-29.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+30,Metallic Blaze Red,Blaze Red,Blaze Red / Metallic Blaze Red,Blaze Red (id=30),#611009,97,16,9,Sunrise Orange (id=36),030_blaze-red_611009.png,030_blaze-red_611009.png,Classic; Metallic; Pearlescent,Accent; Base; Trim; Wheel,"030_accent_blaze-red_611009.png; 
+030_base_611009.png; 
+030_pearlescent_blaze-red_611009.png; 
+030_trim_blaze-red_611009.png; 
+030_wheel_blaze-red_611009.png;; ",https://static.wikia.nocookie.net/gtawiki/images/e/e6/Carcol-GTAV-30.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+31,Metallic Graceful Red,Grace Red,Grace Red / Metallic Graceful Red,Grace Red (id=31),#4A0A0A,74,10,10,Red (id=27),031_grace-red_4a0a0a.png,031_grace-red_4a0a0a.png,Classic; Metallic; Pearlescent,Accent; Base,"031_accent_grace-red_4a0a0a.png; 
+031_base_4a0a0a.png; 
+031_pearlescent_grace-red_4a0a0a.png; 
+031_trim_grace-red_4a0a0a.png;; ",https://static.wikia.nocookie.net/gtawiki/images/e/e2/Carcol-GTAV-31.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+32,Metallic Garnet Red,Garnet Red,Garnet Red / Metallic Garnet Red,Garnet Red (id=32),#470E0E,71,14,14,Worn Blue Silver (id=25),032_garnet-red_470e0e.png,032_garnet-red_470e0e.png,Classic; Metallic; Pearlescent,Accent; Base,"032_accent_garnet-red_470e0e.png; 
+032_base_470e0e.png; 
+032_pearlescent_garnet-red_470e0e.png; 
+032_trim_garnet-red_470e0e.png;; ",https://static.wikia.nocookie.net/gtawiki/images/a/a6/Carcol-GTAV-32.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+33,Metallic Desert Red,Sunset Red,Sunset Red / Metallic Desert Red,Sunset Red (id=33),#380C00,56,12,0,Worn Golden Red (id=47),033_sunset-red_380c00.png,033_sunset-red_380c00.png,Classic; Metallic; Pearlescent,Base; Trim; Wheel,"033_base_380c00.png; 
+033_pearlescent_sunset-red_380c00.png; 
+033_trim_sunset-red_380c00.png; 
+033_wheel_sunset-red_380c00.png;; ",https://static.wikia.nocookie.net/gtawiki/images/7/71/Carcol-GTAV-33.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+34,Metallic Cabernet Red,Cabernet Red,Cabernet Red / Metallic Cabernet Red,Cabernet Red (id=34),#26030B,38,3,11,Worn Golden Red (id=47),034_cabernet-red_26030b.png,034_cabernet-red_26030b.png,Classic; Metallic; Pearlescent,Base,"034_base_26030b.png; 
+034_pearlescent_cabernet-red_26030b.png; 
+034_trim_cabernet-red_26030b.png;; ",https://static.wikia.nocookie.net/gtawiki/images/6/61/Carcol-GTAV-34.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+35,Metallic Candy Red,Candy Red,Candy Red / Metallic Candy Red,Candy Red (id=35),#630012,99,0,18,Worn Blue Silver (id=25),035_candy-red_630012.png,035_candy-red_630012.png,Classic; Metallic; Pearlescent,Accent; Base; Trim; Wheel,"035_accent_candy-red_630012.png; 
+035_base_630012.png; 
+035_pearlescent_candy-red_630012.png; 
+035_trim_candy-red_630012.png; 
+035_wheel_candy-red_630012.png;; ",https://static.wikia.nocookie.net/gtawiki/images/d/d4/Carcol-GTAV-35.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+36,Metallic Sunrise Orange,Sunrise Orange,Sunrise Orange / Metallic Sunrise Orange,Sunrise Orange (id=36),#802800,128,40,0,Worn Shadow Silver (id=26),036_sunrise-orange_802800.png,036_sunrise-orange_802800.png,Classic; Metallic; Pearlescent,Accent; Base; Trim; Wheel,"036_accent_sunrise-orange_802800.png; 
+036_base_802800.png; 
+036_pearlescent_sunrise-orange_802800.png; 
+036_trim_sunrise-orange_802800.png; 
+036_wheel_sunrise-orange_802800.png;; ",https://static.wikia.nocookie.net/gtawiki/images/a/aa/Carcol-GTAV-36.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+37,Metallic Classic Gold,Gold,Gold / Metallic Classic Gold,Gold (id=37),#6E4F2D,110,79,45,Bleached Brown (id=106),037_gold_6e4f2d.png,037_gold_6e4f2d.png,,Accent; Base; Trim; Wheel,"037_accent_gold_6e4f2d.png; 
+037_base_6e4f2d.png; 
+037_wheel_gold_6e4f2d.png;; ",https://static.wikia.nocookie.net/gtawiki/images/2/25/Carcol-GTAV-37.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+38,Metallic Orange,Orange,Orange / Metallic Orange,Orange (id=38),#BD4800,189,72,0,Gold (id=37),038_orange_bd4800.png,038_orange_bd4800.png,Classic; Metallic; Pearlescent,Accent; Base,"038_accent_orange_bd4800.png; 
+038_base_bd4800.png; 
+038_pearlescent_orange_bd4800.png; 
+038_trim_orange_bd4800.png;; ",https://static.wikia.nocookie.net/gtawiki/images/c/cb/Carcol-GTAV-38.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+39,Matte Red,Matte Red,Matte Red / Matte Red,Red (id=39),#780000,120,0,0,,039_matte-red_780000.png,039_matte-red_780000.png,Matte,Base,039_base_780000.png; ,https://static.wikia.nocookie.net/gtawiki/images/3/35/Carcol-GTAV-39.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+40,Matte Dark Red,Matte Dark Red,Matte Dark Red / Matte Dark Red,Dark Red (id=40),#360000,54,0,0,,040_matte-dark-red_360000.png,040_matte-dark-red_360000.png,Matte,Base,040_base_360000.png; ,https://static.wikia.nocookie.net/gtawiki/images/7/7a/Carcol-GTAV-40.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+41,Matte Orange,Orange,Orange / Matte Orange,Orange (id=41),#AB3F00,171,63,0,,041_matte-orange-orange_ab3f00.png,041_matte-orange-orange_ab3f00.png,Matte,Base; Trim; Wheel,"041_base_ab3f00.png; 
+041_wheel_orange_ab3f00.png;; ",https://static.wikia.nocookie.net/gtawiki/images/2/2b/Carcol-GTAV-41.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+42,Matte Yellow,Matte Yellow,Matte Yellow / Matte Yellow,Yellow (id=42),#DE7E00,222,126,0,,042_matte-yellow_de7e00.png,042_matte-yellow_de7e00.png,Matte,Base,042_base_de7e00.png; ,https://static.wikia.nocookie.net/gtawiki/images/4/47/Carcol-GTAV-42.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+43,Util Red,Util Red,Util Red / Util Red,Util Red (id=43),#520000,82,0,0,,043_util-red_520000.png,043_util-red_520000.png,,Base,043_base_520000.png; ,https://static.wikia.nocookie.net/gtawiki/images/3/3e/Carcol-GTAV-43.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+44,Util Bright Red,Util Bright Red,Util Bright Red / Util Bright Red,Util Bright Red (id=44),#8C0404,140,4,4,,044_util-bright-red_8c0404.png,044_util-bright-red_8c0404.png,,Base,044_base_8c0404.png; ,https://static.wikia.nocookie.net/gtawiki/images/5/54/Carcol-GTAV-44.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+45,Util Garnet Red,Garnet Red,Garnet Red / Util Garnet Red,Garnet Red (id=45),#4A1000,74,16,0,,045_garnet-red-util-garnet-red_4a1000.png,045_garnet-red-util-garnet-red_4a1000.png,,Base; Trim; Wheel,"045_base_4a1000.png; 
+045_wheel_garnet-red_4a1000.png;; ",https://static.wikia.nocookie.net/gtawiki/images/f/f0/Carcol-GTAV-45.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+46,Worn Red,Worn Red,Worn Red / Worn Red,Worn Red (id=46),#592525,89,37,37,,046_worn-red_592525.png,046_worn-red_592525.png,,Base,046_base_592525.png; ,https://static.wikia.nocookie.net/gtawiki/images/f/f7/Carcol-GTAV-46.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+47,Worn Golden Red,Worn Golden Red,Worn Golden Red / Worn Golden Red,Worn Golden Red (id=47),#754231,117,66,49,,047_worn-golden-red_754231.png,047_worn-golden-red_754231.png,,Base,047_base_754231.png; ,https://static.wikia.nocookie.net/gtawiki/images/b/b2/Carcol-GTAV-47.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+48,Worn Dark Red,Worn Dark Red,Worn Dark Red / Worn Dark Red,Worn Dark Red (id=48),#210804,33,8,4,,048_worn-dark-red_210804.png,048_worn-dark-red_210804.png,,Base,048_base_210804.png; ,https://static.wikia.nocookie.net/gtawiki/images/8/85/Carcol-GTAV-48.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+49,Metallic Dark Green,Dark Green,Dark Green / Metallic Dark Green,Dark Green (id=49),#001207,0,18,7,Olive Green (id=52),049_dark-green_001207.png,049_dark-green_001207.png,Classic; Metallic; Pearlescent,Base,"049_base_001207.png; 
+049_pearlescent_dark-green_001207.png; 
+049_trim_dark-green_001207.png;; ",https://static.wikia.nocookie.net/gtawiki/images/0/05/Carcol-GTAV-49.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+50,Metallic Racing Green,Racing Green,Racing Green / Metallic Racing Green,Racing Green (id=50),#001A0B,0,26,11,Bright Green (id=53),050_racing-green_001a0b.png,050_racing-green_001a0b.png,Classic; Metallic; Pearlescent,Base,"050_base_001a0b.png; 
+050_pearlescent_racing-green_001a0b.png; 
+050_trim_racing-green_001a0b.png;; ",https://static.wikia.nocookie.net/gtawiki/images/9/98/Carcol-GTAV-50.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+51,Metallic Sea Green,Sea Green,Sea Green / Metallic Sea Green,Sea Green (id=51),#00211E,0,33,30,Harbor Blue (id=66),051_sea-green_00211e.png,051_sea-green_00211e.png,Classic; Metallic; Pearlescent,Accent; Base,"051_accent_sea-green_00211e.png; 
+051_base_00211e.png; 
+051_pearlescent_sea-green_00211e.png; 
+051_trim_sea-green_00211e.png;; ",https://static.wikia.nocookie.net/gtawiki/images/d/dd/Carcol-GTAV-51.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+52,Metallic Olive Green,Olive Green,Olive Green / Metallic Olive Green,Olive Green (id=52),#1F261E,31,38,30,Worn Green (id=59),052_olive-green_1f261e.png,052_olive-green_1f261e.png,Classic; Metallic; Pearlescent,Base; Trim; Wheel,"052_base_1f261e.png; 
+052_pearlescent_olive-green_1f261e.png; 
+052_trim_olive-green_1f261e.png; 
+052_wheel_olive-green_1f261e.png;; ",https://static.wikia.nocookie.net/gtawiki/images/1/17/Carcol-GTAV-52.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+53,Metallic Green,"Bright Green, Green","Bright Green, Green / Metallic Green",Green (id=53),#003805,0,56,5,Worn Green (id=59),053_bright-green-green_003805.png,053_bright-green-green_003805.png,Classic; Metallic; Pearlescent,Accent; Base; Trim; Wheel,"053_accent_bright-green_003805.png; 
+053_base_003805.png; 
+053_pearlescent_bright-green_003805.png; 
+053_trim_bright-green_003805.png; 
+053_wheel_green_003805.png;; ",https://static.wikia.nocookie.net/gtawiki/images/5/5b/Carcol-GTAV-53.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+54,Metallic Gasoline Blue Green,Gasoline Green,Gasoline Green / Metallic Gasoline Blue Green,Gasoline Green (id=54),#0B4145,11,65,69,Worn Sea Wash (id=60),054_gasoline-green_0b4145.png,054_gasoline-green_0b4145.png,Classic; Metallic; Pearlescent,Accent; Base,"054_accent_gasoline-green_0b4145.png; 
+054_base_0b4145.png; 
+054_pearlescent_gasoline-green_0b4145.png; 
+054_trim_gasoline-green_0b4145.png;; ",https://static.wikia.nocookie.net/gtawiki/images/b/b1/Carcol-GTAV-54.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+55,Matte Lime Green,Lime Green,Lime Green / Matte Lime Green,Lime Green (id=55),#418503,65,133,3,,055_lime-green-matte-lime-green_418503.png,055_lime-green-matte-lime-green_418503.png,Matte,Base; Trim; Wheel,"055_base_418503.png; 
+055_wheel_lime-green_418503.png;; ",https://static.wikia.nocookie.net/gtawiki/images/2/22/Carcol-GTAV-55.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+56,Util Dark Green,Dark Green,Dark Green / Util Dark Green,Dark Green (id=56),#0F1F15,15,31,21,,056_dark-green-util-dark-green_0f1f15.png,056_dark-green-util-dark-green_0f1f15.png,,Base; Trim; Wheel,"056_base_0f1f15.png; 
+056_wheel_dark-green_0f1f15.png;; ",https://static.wikia.nocookie.net/gtawiki/images/b/bb/Carcol-GTAV-56.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+57,Util Green,Util Green,Util Green / Util Green,Util Green (id=57),#023613,2,54,19,,057_util-green_023613.png,057_util-green_023613.png,,Base,057_base_023613.png; ,https://static.wikia.nocookie.net/gtawiki/images/3/30/Carcol-GTAV-58.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+58,Worn Dark Green,Worn Dark Green,Worn Dark Green / Worn Dark Green,Worn Dark Green (id=58),#162419,22,36,25,,058_worn-dark-green_162419.png,058_worn-dark-green_162419.png,,Base,058_base_162419.png; ,https://static.wikia.nocookie.net/gtawiki/images/3/3c/Carcol-GTAV-59.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+59,Worn Green,Worn Green,Worn Green / Worn Green,Worn Green (id=59),#2A3625,42,54,37,,059_worn-green_2a3625.png,059_worn-green_2a3625.png,,Base,059_base_2a3625.png; ,https://static.wikia.nocookie.net/gtawiki/images/4/4b/Carcol-GTAV-60.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+60,Worn Sea Wash,Worn Sea Wash,Worn Sea Wash / Worn Sea Wash,Worn Sea Wash (id=60),#455C56,69,92,86,,060_worn-sea-wash_455c56.png,060_worn-sea-wash_455c56.png,,Base,060_base_455c56.png; ,https://static.wikia.nocookie.net/gtawiki/images/3/33/Carcol-GTAV-61.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+61,Metallic Midnight Blue,Galaxy Blue,Galaxy Blue / Metallic Midnight Blue,Galaxy Blue (id=61),#000D14,0,13,20,Saxon Blue (id=63),061_galaxy-blue_000d14.png,061_galaxy-blue_000d14.png,Classic; Metallic; Pearlescent,Base,"061_base_000d14.png; 
+061_pearlescent_galaxy-blue_000d14.png; 
+061_trim_galaxy-blue_000d14.png;; ",https://static.wikia.nocookie.net/gtawiki/images/7/7f/Carcol-GTAV-62.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+62,Metallic Dark Blue,Dark Blue,Dark Blue / Metallic Dark Blue,Dark Blue (id=62),#001029,0,16,41,Surf Blue (id=68),062_dark-blue_001029.png,062_dark-blue_001029.png,Classic; Metallic; Pearlescent,Base,"062_base_001029.png; 
+062_pearlescent_dark-blue_001029.png; 
+062_trim_dark-blue_001029.png;; ",https://static.wikia.nocookie.net/gtawiki/images/c/c9/Carcol-GTAV-63.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+63,Metallic Saxony Blue,Saxon Blue,Saxon Blue / Metallic Saxony Blue,Saxon Blue (id=63),#1C2F4F,28,47,79,Worn Baby Blue (id=87),063_saxon-blue_1c2f4f.png,063_saxon-blue_1c2f4f.png,Classic; Metallic; Pearlescent,Accent; Base,"063_accent_saxon-blue_1c2f4f.png; 
+063_base_1c2f4f.png; 
+063_pearlescent_saxon-blue_1c2f4f.png; 
+063_trim_saxon-blue_1c2f4f.png;; ",https://static.wikia.nocookie.net/gtawiki/images/3/35/Carcol-GTAV-64.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+64,Metallic Blue,"Blue, Royal Blue","Blue, Royal Blue / Metallic Blue",Royal Blue (id=64),#001B57,0,27,87,Surf Blue (id=68),064_blue-royal-blue_001b57.png,064_blue-royal-blue_001b57.png,Classic; Metallic; Pearlescent,Accent; Base; Trim; Wheel,"064_accent_blue_001b57.png; 
+064_base_001b57.png; 
+064_pearlescent_blue_001b57.png; 
+064_wheel_royal-blue_001b57.png;; ",https://static.wikia.nocookie.net/gtawiki/images/8/88/Carcol-GTAV-65.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+65,Metallic Mariner Blue,Mariner Blue,Mariner Blue / Metallic Mariner Blue,Mariner Blue (id=65),#3B4E78,59,78,120,Worn Baby Blue (id=87),065_mariner-blue_3b4e78.png,065_mariner-blue_3b4e78.png,Classic; Metallic; Pearlescent,Accent; Base,"065_accent_mariner-blue_3b4e78.png; 
+065_base_3b4e78.png; 
+065_pearlescent_mariner-blue_3b4e78.png; 
+065_trim_mariner-blue_3b4e78.png;; ",https://static.wikia.nocookie.net/gtawiki/images/1/14/Carcol-GTAV-66.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+66,Metallic Harbor Blue,Harbor Blue,Harbor Blue / Metallic Harbor Blue,Harbor Blue (id=66),#272D3B,39,45,59,Worn Sea Wash (id=60),066_harbor-blue_272d3b.png,066_harbor-blue_272d3b.png,Classic; Metallic; Pearlescent,Accent; Base,"066_accent_harbor-blue_272d3b.png; 
+066_base_272d3b.png; 
+066_pearlescent_harbor-blue_272d3b.png; 
+066_trim_harbor-blue_272d3b.png;; ",https://static.wikia.nocookie.net/gtawiki/images/7/73/Carcol-GTAV-67.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+67,Metallic Diamond Blue,Diamond Blue,Diamond Blue / Metallic Diamond Blue,Diamond Blue (id=67),#95B2DB,149,178,219,Diamond Blue (id=67),067_diamond-blue_95b2db.png,067_diamond-blue_95b2db.png,Classic; Metallic; Pearlescent,Accent; Base,"067_accent_diamond-blue_95b2db.png; 
+067_base_95b2db.png; 
+067_pearlescent_diamond-blue_95b2db.png; 
+067_trim_diamond-blue_95b2db.png;; ",https://static.wikia.nocookie.net/gtawiki/images/e/eb/Carcol-GTAV-68.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+68,Metallic Surf Blue,Surf Blue,Surf Blue / Metallic Surf Blue,Surf Blue (id=68),#3E627A,62,98,122,Surf Blue (id=68),068_surf-blue_3e627a.png,068_surf-blue_3e627a.png,Classic; Metallic; Pearlescent,Accent; Base,"068_accent_surf-blue_3e627a.png; 
+068_base_3e627a.png; 
+068_pearlescent_surf-blue_3e627a.png; 
+068_trim_surf-blue_3e627a.png;; ",https://static.wikia.nocookie.net/gtawiki/images/6/6e/Carcol-GTAV-69.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+69,Metallic Nautical Blue,Nautical Blue,Nautical Blue / Metallic Nautical Blue,Nautical Blue (id=69),#1C3140,28,49,64,Light Blue (id=74),069_nautical-blue_1c3140.png,069_nautical-blue_1c3140.png,Classic; Metallic; Pearlescent,Accent; Base,"069_accent_nautical-blue_1c3140.png; 
+069_base_1c3140.png; 
+069_pearlescent_nautical-blue_1c3140.png; 
+069_trim_nautical-blue_1c3140.png;; ",https://static.wikia.nocookie.net/gtawiki/images/2/2a/Carcol-GTAV-70.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+70,Metallic Bright Blue,"Bright Blue, Ultra Blue","Bright Blue, Ultra Blue / Metallic Bright Blue",Bright Blue (id=70),#0055C4,0,85,196,Ultra Blue (id=70),070_bright-blue-ultra-blue_0055c4.png,070_bright-blue-ultra-blue_0055c4.png,Classic; Metallic; Pearlescent,Accent; Base; Trim; Wheel,"070_accent_ultra-blue_0055c4.png; 
+070_base_0055c4.png; 
+070_pearlescent_ultra-blue_0055c4.png; 
+070_trim_ultra-blue_0055c4.png; 
+070_wheel_bright-blue_0055c4.png;; ",https://static.wikia.nocookie.net/gtawiki/images/4/43/Carcol-GTAV-71.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+71,Metallic Purple Blue,Schafter Purple,Schafter Purple / Metallic Purple Blue,Schafter Purple (id=71),#1A182E,26,24,46,Bright Purple (id=145),071_schafter-purple_1a182e.png,071_schafter-purple_1a182e.png,Classic; Metallic; Pearlescent,Accent; Base,"071_accent_schafter-purple_1a182e.png; 
+071_base_1a182e.png; 
+071_pearlescent_schafter-purple_1a182e.png;; ",https://static.wikia.nocookie.net/gtawiki/images/3/35/Carcol-GTAV-72.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+72,Metallic Spinnaker Blue,Spinnaker Purple,Spinnaker Purple / Metallic Spinnaker Blue,Spinnaker Purple (id=72),#161629,22,22,41,Blue (id=64),072_spinnaker-purple_161629.png,072_spinnaker-purple_161629.png,Classic; Metallic; Pearlescent,Base,"072_base_161629.png; 
+072_pearlescent_spinnaker-purple_161629.png; 
+072_trim_spinnaker-purple_161629.png;; ",https://static.wikia.nocookie.net/gtawiki/images/0/06/Carcol-GTAV-73.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+73,Metallic Ultra Blue,Racing Blue,Racing Blue / Metallic Ultra Blue,Racing Blue (id=73),#0E316D,14,49,109,Racing Blue (id=73),073_racing-blue_0e316d.png,073_racing-blue_0e316d.png,Classic; Metallic; Pearlescent,Accent; Base,"073_accent_racing-blue_0e316d.png; 
+073_base_0e316d.png; 
+073_pearlescent_racing-blue_0e316d.png; 
+073_trim_racing-blue_0e316d.png;; ",https://static.wikia.nocookie.net/gtawiki/images/f/f3/Carcol-GTAV-74.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+74,Metallic Bright Blue,Light Blue,Light Blue / Metallic Bright Blue,Light Blue (id=74),#395A83,57,90,131,Light Blue (id=74),074_light-blue_395a83.png,074_light-blue_395a83.png,Classic; Metallic; Pearlescent,Accent; Base,"074_accent_light-blue_395a83.png; 
+074_base_395a83.png; 
+074_pearlescent_light-blue_395a83.png; 
+074_trim_light-blue_395a83.png;; ",https://static.wikia.nocookie.net/gtawiki/images/6/6f/Carcol-GTAV-75.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+75,Util Dark Blue,Util Dark Blue,Util Dark Blue / Util Dark Blue,Util Dark Blue (id=75),#09142E,9,20,46,,075_util-dark-blue_09142e.png,075_util-dark-blue_09142e.png,,Base,075_base_09142e.png; ,https://static.wikia.nocookie.net/gtawiki/images/b/b5/Carcol-GTAV-76.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+76,Util Midnight Blue,Util Midnight Blue,Util Midnight Blue / Util Midnight Blue,Util Midnight Blue (id=76),#0F1021,15,16,33,,076_util-midnight-blue_0f1021.png,076_util-midnight-blue_0f1021.png,,Base,076_base_0f1021.png; ,https://static.wikia.nocookie.net/gtawiki/images/a/a4/Carcol-GTAV-77.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+77,Util Blue,Util Blue,Util Blue / Util Blue,Util Blue (id=77),#152A52,21,42,82,,077_util-blue_152a52.png,077_util-blue_152a52.png,,Base,077_base_152a52.png; ,https://static.wikia.nocookie.net/gtawiki/images/6/62/Carcol-GTAV-78.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+78,Util Sea Foam Blue,Util Sea Foam Blue,Util Sea Foam Blue / Util Sea Foam Blue,Util Sea Foam Blue (id=78),#324654,50,70,84,,078_util-sea-foam-blue_324654.png,078_util-sea-foam-blue_324654.png,,Base,078_base_324654.png; ,https://static.wikia.nocookie.net/gtawiki/images/1/11/Carcol-GTAV-79.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+79,Uil Lightning Blue,Util Lightning Blue,Util Lightning Blue / Uil Lightning Blue,Util Lightning Blue (id=79),#152563,21,37,99,,079_util-lightning-blue_152563.png,079_util-lightning-blue_152563.png,,Base,079_base_152563.png; ,https://static.wikia.nocookie.net/gtawiki/images/c/c5/Carcol-GTAV-80.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+80,Util Maui Blue Poly,Util Maui Blue Poly,Util Maui Blue Poly / Util Maui Blue Poly,Util Maui Blue Poly (id=80),#223BA1,34,59,161,,080_util-maui-blue-poly_223ba1.png,080_util-maui-blue-poly_223ba1.png,,Base,080_base_223ba1.png; ,https://static.wikia.nocookie.net/gtawiki/images/4/4e/Carcol-GTAV-81.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+81,Util Bright Blue,Slate Blue,Slate Blue / Util Bright Blue,Slate Blue (id=81),#1F1FA1,31,31,161,,081_slate-blue-util-bright-blue_1f1fa1.png,081_slate-blue-util-bright-blue_1f1fa1.png,,Base; Trim; Wheel,"081_base_1f1fa1.png; 
+081_wheel_slate-blue_1f1fa1.png;; ",https://static.wikia.nocookie.net/gtawiki/images/4/41/Carcol-GTAV-82.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+82,Matte Dark Blue,Midnight Blue,Midnight Blue / Matte Dark Blue,Midnight Blue (id=82),#030E2E,3,14,46,,082_matte-dark-blue-midnight-blue_030e2e.png,082_matte-dark-blue-midnight-blue_030e2e.png,Matte,Base; Trim; Wheel,"082_base_030e2e.png; 
+082_wheel_midnight-blue_030e2e.png;; ",https://static.wikia.nocookie.net/gtawiki/images/0/0b/Carcol-GTAV-83.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+83,Matte Blue,Matte Blue,Matte Blue / Matte Blue,Blue (id=83),#0F1E73,15,30,115,,083_matte-blue_0f1e73.png,083_matte-blue_0f1e73.png,Matte,Base,083_base_0f1e73.png; ,https://static.wikia.nocookie.net/gtawiki/images/9/96/Carcol-GTAV-84.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+84,Matte Midnight Blue,Matte Midnight Blue,Matte Midnight Blue / Matte Midnight Blue,Midnight Blue (id=84),#001C32,0,28,50,,084_matte-midnight-blue_001c32.png,084_matte-midnight-blue_001c32.png,Matte,Base,084_base_001c32.png; ,https://static.wikia.nocookie.net/gtawiki/images/8/81/Carcol-GTAV-85.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+85,Worn Dark Blue,Worn Dark Blue,Worn Dark Blue / Worn Dark Blue,Worn Dark Blue (id=85),#2A3754,42,55,84,,085_worn-dark-blue_2a3754.png,085_worn-dark-blue_2a3754.png,,Base,085_base_2a3754.png; ,https://static.wikia.nocookie.net/gtawiki/images/b/b9/Carcol-GTAV-86.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+86,Worn Blue,Worn Blue,Worn Blue / Worn Blue,Worn Blue (id=86),#303C5E,48,60,94,,086_worn-blue_303c5e.png,086_worn-blue_303c5e.png,,Base,086_base_303c5e.png; ,https://static.wikia.nocookie.net/gtawiki/images/8/86/Carcol-GTAV-87.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+87,Worn Light Blue,"Baby Blue, Worn Baby Blue","Baby Blue, Worn Baby Blue / Worn Light Blue",Baby Blue (id=87),#3B6796,59,103,150,,087_baby-blue-worn-baby-blue_3b6796.png,087_baby-blue-worn-baby-blue_3b6796.png,,Base; Trim; Wheel,"087_base_3b6796.png; 
+087_wheel_baby-blue_3b6796.png;; ",https://static.wikia.nocookie.net/gtawiki/images/5/5e/Carcol-GTAV-88.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+88,Metallic Taxi Yellow,Yellow,Yellow / Metallic Taxi Yellow,Yellow (id=88),#F5890F,245,137,15,Yellow (id=88),088_yellow_f5890f.png,088_yellow_f5890f.png,Classic; Metallic; Pearlescent,Accent; Base; Trim; Wheel,"088_accent_yellow_f5890f.png; 
+088_base_f5890f.png; 
+088_pearlescent_yellow_f5890f.png; 
+088_trim_yellow_f5890f.png; 
+088_wheel_yellow_f5890f.png;; ",https://static.wikia.nocookie.net/gtawiki/images/8/8c/Carcol-GTAV-89.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+89,Metallic Race Yellow,Race Yellow,Race Yellow / Metallic Race Yellow,Race Yellow (id=89),#D9A600,217,166,0,Yellow (id=88),089_race-yellow_d9a600.png,089_race-yellow_d9a600.png,Classic; Metallic; Pearlescent,Accent; Base; Trim; Wheel,"089_accent_race-yellow_d9a600.png; 
+089_base_d9a600.png; 
+089_pearlescent_race-yellow_d9a600.png; 
+089_trim_race-yellow_d9a600.png; 
+089_wheel_race-yellow_d9a600.png;; ",https://static.wikia.nocookie.net/gtawiki/images/d/d4/Carcol-GTAV-90.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+90,Metallic Bronze,"Bronze, Dark Copper","Bronze, Dark Copper / Metallic Bronze",Dark Copper (id=90),#4A341B,74,52,27,WoodBeech Brown (id=102),090_bronze-dark-copper_4a341b.png,090_bronze-dark-copper_4a341b.png,Classic; Metallic; Pearlescent,Accent; Base; Trim; Wheel,"090_accent_bronze_4a341b.png; 
+090_base_4a341b.png; 
+090_pearlescent_bronze_4a341b.png; 
+090_trim_bronze_4a341b.png; 
+090_wheel_dark-copper_4a341b.png;; ",https://static.wikia.nocookie.net/gtawiki/images/4/4f/Carcol-GTAV-91.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+91,Metallic Yellow Bird,"Dew Yellow, Yellow Bird","Dew Yellow, Yellow Bird / Metallic Yellow Bird",Yellow Bird (id=91),#A2A827,162,168,39,Dew Yellow/Yellow Bird (id=91),091_dew-yellow-yellow-bird_a2a827.png,091_dew-yellow-yellow-bird_a2a827.png,Classic; Metallic; Pearlescent,Accent; Base; Trim; Wheel,"091_accent_dew-yellow_a2a827.png; 
+091_base_a2a827.png; 
+091_pearlescent_dew-yellow_a2a827.png; 
+091_trim_dew-yellow_a2a827.png; 
+091_wheel_yellow-bird_a2a827.png;; ",https://static.wikia.nocookie.net/gtawiki/images/1/17/Carcol-GTAV-92.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+92,Metallic Lime,Lime Green,Lime Green / Metallic Lime,Lime Green (id=92),#568F00,86,143,0,Lime Green (id=92),092_lime-green_568f00.png,092_lime-green_568f00.png,Classic; Metallic; Pearlescent,Accent; Base,"092_accent_lime-green_568f00.png; 
+092_base_568f00.png; 
+092_pearlescent_lime-green_568f00.png; 
+092_trim_lime-green_568f00.png;; ",https://static.wikia.nocookie.net/gtawiki/images/e/e3/Carcol-GTAV-93.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+93,Metallic Champagne,Champagne,Champagne / Metallic Champagne,"Champagne, Metallic Champagne (id=93)",#57514B,87,81,75,,093_champagne_57514b.png,093_champagne_57514b.png,,Base,093_base_57514b.png; ,https://static.wikia.nocookie.net/gtawiki/images/d/d6/Carcol-GTAV-94.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+94,Metallic Pueblo Beige,Feltzer Brown,Feltzer Brown / Metallic Pueblo Beige,Feltzer Brown (id=94),#291B06,41,27,6,Sienna Brown (id=104),094_feltzer-brown_291b06.png,094_feltzer-brown_291b06.png,Classic; Metallic; Pearlescent,Base,"094_base_291b06.png; 
+094_pearlescent_feltzer-brown_291b06.png; 
+094_trim_feltzer-brown_291b06.png;; ",https://static.wikia.nocookie.net/gtawiki/images/7/79/Carcol-GTAV-95.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+95,Metallic Dark Ivory,"Creek Brown, Dark Ivory","Creek Brown, Dark Ivory / Metallic Dark Ivory",Dark Ivory (id=95),#262117,38,33,23,Maple Brown (id=97),095_creek-brown-dark-ivory_262117.png,095_creek-brown-dark-ivory_262117.png,Classic; Metallic; Pearlescent,Base; Trim; Wheel,"095_base_262117.png; 
+095_pearlescent_creek-brown_262117.png; 
+095_trim_creek-brown_262117.png; 
+095_wheel_dark-ivory_262117.png;; ",https://static.wikia.nocookie.net/gtawiki/images/5/55/Carcol-GTAV-96.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+96,Metallic Choco Brown,Chocolate Brown,Chocolate Brown / Metallic Choco Brown,Chocolate Brown (id=96),#120D07,18,13,7,Creek Brown (id=95),096_chocolate-brown_120d07.png,096_chocolate-brown_120d07.png,Classic; Metallic; Pearlescent,Base,"096_base_120d07.png; 
+096_pearlescent_chocolate-brown_120d07.png; 
+096_trim_chocolate-brown_120d07.png;; ",https://static.wikia.nocookie.net/gtawiki/images/8/83/Carcol-GTAV-97.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+97,Metallic Golden Brown,Maple Brown,Maple Brown / Metallic Golden Brown,Maple Brown (id=97),#332111,51,33,17,Saddle Brown (id=98),097_maple-brown_332111.png,097_maple-brown_332111.png,Classic; Metallic; Pearlescent,Base,"097_base_332111.png; 
+097_pearlescent_maple-brown_332111.png; 
+097_trim_maple-brown_332111.png;; ",https://static.wikia.nocookie.net/gtawiki/images/f/fd/Carcol-GTAV-98.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+98,Metallic Light Brown,Saddle Brown,Saddle Brown / Metallic Light Brown,Saddle Brown (id=98),#3D3023,61,48,35,Creek Brown (id=95),098_saddle-brown_3d3023.png,098_saddle-brown_3d3023.png,Classic; Metallic; Pearlescent,Accent; Base,"098_accent_saddle-brown_3d3023.png; 
+098_base_3d3023.png; 
+098_pearlescent_saddle-brown_3d3023.png; 
+098_trim_saddle-brown_3d3023.png;; ",https://static.wikia.nocookie.net/gtawiki/images/8/83/Carcol-GTAV-99.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+99,Metallic Straw Beige,"Gold, Straw Brown","Gold, Straw Brown / Metallic Straw Beige",Straw Brown (id=99),#5E5343,94,83,67,Bleached Brown (id=106),099_gold-straw-brown_5e5343.png,099_gold-straw-brown_5e5343.png,Classic; Metallic; Pearlescent,Accent; Base; Trim; Wheel,"099_accent_straw-brown_5e5343.png; 
+099_base_5e5343.png; 
+099_pearlescent_gold_5e5343.png; 
+099_pearlescent_straw-brown_5e5343.png; 
+099_trim_straw-brown_5e5343.png; 
+099_wheel_straw-brown_5e5343.png;; ",https://static.wikia.nocookie.net/gtawiki/images/2/2b/Carcol-GTAV-100.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+100,Metallic Moss Brown,Moss Brown,Moss Brown / Metallic Moss Brown,Moss Brown (id=100),#37382B,55,56,43,Moss Brown (id=100),100_moss-brown_37382b.png,100_moss-brown_37382b.png,Classic; Metallic; Pearlescent,Accent; Base,"100_accent_moss-brown_37382b.png; 
+100_base_37382b.png; 
+100_pearlescent_moss-brown_37382b.png; 
+100_trim_moss-brown_37382b.png;; ",https://static.wikia.nocookie.net/gtawiki/images/c/c4/Carcol-GTAV-101.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+101,Metallic Biston Brown,"Bison Brown, Metallic Bison Brown","Bison Brown, Metallic Bison Brown / Metallic Biston Brown",Bison Brown (id=101),#221918,34,25,24,Creek Brown (id=95),101_bison-brown_221918.png,101_bison-brown_221918.png,Classic; Metallic; Pearlescent,Base,"101_base_221918.png; 
+101_pearlescent_bison-brown_221918.png; 
+101_trim_bison-brown_221918.png;; ",https://static.wikia.nocookie.net/gtawiki/images/e/e7/Carcol-GTAV-102.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+102,Metallic Beechwood,"Beechwood, Woodbeech Brown","Beechwood, Woodbeech Brown / Metallic Beechwood",Beechwood (id=102),#575036,87,80,54,Sandy Brown (id=105),102_beechwood_575036.png,102_beechwood_575036.png,Classic; Metallic; Pearlescent,Accent; Base,"102_accent_woodbeech-brown_575036.png; 
+102_base_575036.png; 
+102_pearlescent_woodbeech-brown_575036.png; 
+102_trim_woodbeech-brown_575036.png;; ",https://static.wikia.nocookie.net/gtawiki/images/2/2a/Carcol-GTAV-103.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+103,Metallic Dark Beechwood,"Dark Beechwood, Beechwood Brown","Dark Beechwood, Beechwood Brown / Metallic Dark Beechwood",Dark Beechwood Brown (id=103),#241309,36,19,9,Sienna Brown (id=104),103_dark-beechwood_241309.png,103_dark-beechwood_241309.png,Classic; Metallic; Pearlescent,Base,"103_base_241309.png; 
+103_pearlescent_beechwood-brown_241309.png; 
+103_trim_beechwood-brown_241309.png;; ",https://static.wikia.nocookie.net/gtawiki/images/2/27/Carcol-GTAV-104.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+104,Metallic Choco Orange,Sienna Brown,Sienna Brown / Metallic Choco Orange,Sienna Brown (id=104),#3B1700,59,23,0,Sienna Brown (id=104),104_sienna-brown_3b1700.png,104_sienna-brown_3b1700.png,Classic; Metallic; Pearlescent,Accent; Base,"104_accent_sienna-brown_3b1700.png; 
+104_base_3b1700.png; 
+104_pearlescent_sienna-brown_3b1700.png; 
+104_trim_sienna-brown_3b1700.png;; ",https://static.wikia.nocookie.net/gtawiki/images/7/75/Carcol-GTAV-105.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+105,Metallic Beach Sand,Sandy Brown,Sandy Brown / Metallic Beach Sand,Sandy Brown (id=105),#6E6246,110,98,70,Sandy Brown (id=105),105_sandy-brown_6e6246.png,105_sandy-brown_6e6246.png,Classic; Metallic; Pearlescent,Accent; Base,"105_accent_sandy-brown_6e6246.png; 
+105_base_6e6246.png; 
+105_pearlescent_sandy-brown_6e6246.png; 
+105_trim_sandy-brown_6e6246.png;; ",https://static.wikia.nocookie.net/gtawiki/images/c/c3/Carcol-GTAV-106.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+106,Metallic Sun Bleeched Sand,Bleached Brown,Bleached Brown / Metallic Sun Bleeched Sand,Bleached Brown (id=106),#998D73,153,141,115,Bleached Brown (id=106),106_bleached-brown_998d73.png,106_bleached-brown_998d73.png,Classic; Metallic; Pearlescent,Accent; Base,"106_accent_bleached-brown_998d73.png; 
+106_base_998d73.png; 
+106_pearlescent_bleached-brown_998d73.png; 
+106_trim_bleached-brown_998d73.png;; ",https://static.wikia.nocookie.net/gtawiki/images/d/d8/Carcol-GTAV-107.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+107,Metallic Cream,Cream,Cream / Metallic Cream,Cream (id=107),#CFC0A5,207,192,165,Cream (id=107),107_cream_cfc0a5.png,107_cream_cfc0a5.png,Classic; Metallic; Pearlescent,Accent; Base,"107_accent_cream_cfc0a5.png; 
+107_base_cfc0a5.png; 
+107_pearlescent_cream_cfc0a5.png; 
+107_trim_cream_cfc0a5.png;; ",https://static.wikia.nocookie.net/gtawiki/images/0/0e/Carcol-GTAV-108.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+108,Util Brown,Util Brown,Util Brown / Util Brown,Util Brown (id=108),#1F1709,31,23,9,,108_util-brown_1f1709.png,108_util-brown_1f1709.png,,Base,108_base_1f1709.png; ,https://static.wikia.nocookie.net/gtawiki/images/0/0f/Carcol-GTAV-109.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+109,Util Medium Brown,Bronze,Bronze / Util Medium Brown,Bronze (id=109),#3D311D,61,49,29,,109_bronze-util-medium-brown_3d311d.png,109_bronze-util-medium-brown_3d311d.png,,Base; Trim; Wheel,"109_base_3d311d.png; 
+109_wheel_bronze_3d311d.png;; ",https://static.wikia.nocookie.net/gtawiki/images/3/3b/Carcol-GTAV-110.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+110,Util Light Brown,Util Light Brown,Util Light Brown / Util Light Brown,Util Light Brown (id=110),#665847,102,88,71,,110_util-light-brown_665847.png,110_util-light-brown_665847.png,,Base,110_base_665847.png; ,https://static.wikia.nocookie.net/gtawiki/images/6/65/Carcol-GTAV-111.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+111,Metallic White,Ice White,Ice White / Metallic White,Ice White (id=111),#F0F0F0,240,240,240,Black (id=0),111_ice-white_f0f0f0.png,111_ice-white_f0f0f0.png,Classic; Metallic; Pearlescent,Accent; Base,"111_accent_ice-white_f0f0f0.png; 
+111_base_f0f0f0.png; 
+111_pearlescent_ice-white_f0f0f0.png; 
+111_trim_ice-white_f0f0f0.png;; ",https://static.wikia.nocookie.net/gtawiki/images/3/30/Carcol-GTAV-112.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+112,Metallic Frost White,Frost White,Frost White / Metallic Frost White,Frost White (id=112),#B3B9C9,179,185,201,Black (id=0),112_frost-white_b3b9c9.png,112_frost-white_b3b9c9.png,Classic; Metallic; Pearlescent,Accent; Base; Trim,"112_accent_frost-white_b3b9c9.png; 
+112_base_b3b9c9.png; 
+112_pearlescent_frost-white_b3b9c9.png; 
+112_trim_frost-white_b3b9c9.png;; ",https://static.wikia.nocookie.net/gtawiki/images/d/d8/Carcol-GTAV-113.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+113,Worn Honey Beige,Worn Honey Beige,Worn Honey Beige / Worn Honey Beige,Worn Honey Beige (id=113),#615F55,97,95,85,,113_worn-honey-beige_615f55.png,113_worn-honey-beige_615f55.png,,Base,113_base_615f55.png; ,https://static.wikia.nocookie.net/gtawiki/images/c/cb/Carcol-GTAV-114.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+114,Worn Brown,Worn Brown,Worn Brown / Worn Brown,Worn Brown (id=114),#241E1A,36,30,26,,114_worn-brown_241e1a.png,114_worn-brown_241e1a.png,,Base,114_base_241e1a.png; ,https://static.wikia.nocookie.net/gtawiki/images/2/24/Carcol-GTAV-115.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+115,Worn Dark Brown,Dark Brown,Dark Brown / Worn Dark Brown,Dark Brown (id=115),#171413,23,20,19,,115_dark-brown-worn-dark-brown_171413.png,115_dark-brown-worn-dark-brown_171413.png,,Base; Trim; Wheel,"115_base_171413.png; 
+115_wheel_dark-brown_171413.png;; ",https://static.wikia.nocookie.net/gtawiki/images/9/90/Carcol-GTAV-116.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+116,Worn Straw Beige,Worn Straw Beige,Worn Straw Beige / Worn Straw Beige,Worn Straw Beige (id=116),#3B372F,59,55,47,,116_worn-straw-beige_3b372f.png,116_worn-straw-beige_3b372f.png,,Base,116_base_3b372f.png; ,https://static.wikia.nocookie.net/gtawiki/images/2/24/Carcol-GTAV-117.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+117,Brushed Steel,Brushed Steel,Brushed Steel / Brushed Steel,Brushed Steel (id=117),#3B4045,59,64,69,Util Silver (id=18),117_brushed-steel_3b4045.png,117_brushed-steel_3b4045.png,Metals,Base,117_base_3b4045.png; ,https://static.wikia.nocookie.net/gtawiki/images/1/1c/Carcol-GTAV-118.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+118,Brushed Black Steel,Brushed Black Steel,Brushed Black Steel / Brushed Black Steel,Brushed Black Steel (id=118),#1A1E21,26,30,33,Dark Steel (id=3),118_brushed-black-steel_1a1e21.png,118_brushed-black-steel_1a1e21.png,Metals,Base,118_base_1a1e21.png; ,https://static.wikia.nocookie.net/gtawiki/images/f/f0/Carcol-GTAV-119.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+119,Brushed Aluminium,Brushed Aluminium,Brushed Aluminium / Brushed Aluminium,Brushed Aluminum (id=119),#5E646B,94,100,107,Bluish Silver (id=5),119_brushed-aluminium_5e646b.png,119_brushed-aluminium_5e646b.png,Metals,Base,119_base_5e646b.png; ,https://static.wikia.nocookie.net/gtawiki/images/c/c5/Carcol-GTAV-120.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+120,Chrome,Chrome,Chrome / Chrome,Chrome (id=120),#000000,0,0,0,,120_chrome_000000.png,120_chrome_000000.png,Chrome,Base,120_base_000000.png; ,https://static.wikia.nocookie.net/gtawiki/images/5/56/Carcol-GTAV-121.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+121,Worn Off White,Worn Off White,Worn Off White / Worn Off White,Worn Off White (id=121),#B0B0B0,176,176,176,,121_worn-off-white_b0b0b0.png,121_worn-off-white_b0b0b0.png,,Base,121_base_b0b0b0.png; ,https://static.wikia.nocookie.net/gtawiki/images/e/eb/Carcol-GTAV-122.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+122,Util Off White,Frost White,Frost White / Util Off White,Frost White (id=122),#999999,153,153,153,,122_frost-white-util-off-white_999999.png,122_frost-white-util-off-white_999999.png,,Base; Trim; Wheel,"122_base_999999.png; 
+122_wheel_frost-white_999999.png;; ",https://static.wikia.nocookie.net/gtawiki/images/f/f6/Carcol-GTAV-123.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+123,Worn Orange,Worn Orange,Worn Orange / Worn Orange,Worn Orange (id=123),#B56519,181,101,25,,123_worn-orange_b56519.png,123_worn-orange_b56519.png,,Base,123_base_b56519.png; ,https://static.wikia.nocookie.net/gtawiki/images/8/82/Carcol-GTAV-124.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+124,Worn Light Orange,Worn Light Orange,Worn Light Orange / Worn Light Orange,Worn Light Orange (id=124),#C45C33,196,92,51,,124_worn-light-orange_c45c33.png,124_worn-light-orange_c45c33.png,,Base,124_base_c45c33.png; ,https://static.wikia.nocookie.net/gtawiki/images/9/9b/Carcol-GTAV-125.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+125,Metallic Securicor Green,"Pea Green, Securicor Green","Pea Green, Securicor Green / Metallic Securicor Green",Pea Green (id=125),#47783C,71,120,60,,125_pea-green-securicor-green_47783c.png,125_pea-green-securicor-green_47783c.png,,Base; Trim; Wheel,"125_base_47783c.png; 
+125_wheel_pea-green_47783c.png;; ",https://static.wikia.nocookie.net/gtawiki/images/f/f3/Carcol-GTAV-126.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+126,Worn Taxi Yellow,Worn Taxi Yellow,Worn Taxi Yellow / Worn Taxi Yellow,Worn Taxi Yellow (id=126),#BA8425,186,132,37,,126_worn-taxi-yellow_ba8425.png,126_worn-taxi-yellow_ba8425.png,,Base,126_base_ba8425.png; ,https://static.wikia.nocookie.net/gtawiki/images/0/03/Carcol-GTAV-127.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+127,Police Car Blue,Police Blue,Police Blue / Police Car Blue,Police Blue (id=127),#2A77A1,42,119,161,,127_police-blue_2a77a1.png,127_police-blue_2a77a1.png,,Base,127_base_2a77a1.png; ,https://static.wikia.nocookie.net/gtawiki/images/4/4f/Carcol-GTAV-128.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+128,Matte Green,Matte Green,Matte Green / Matte Green,Green (id=128),#243022,36,48,34,,128_matte-green_243022.png,128_matte-green_243022.png,Matte,Base,128_base_243022.png; ,https://static.wikia.nocookie.net/gtawiki/images/e/eb/Carcol-GTAV-129.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+129,Matte Brown,Matte Brown,Matte Brown / Matte Brown,Matte Brown (id=129),#6B5F54,107,95,84,,129_matte-brown_6b5f54.png,129_matte-brown_6b5f54.png,,Base,129_base_6b5f54.png; ,https://static.wikia.nocookie.net/gtawiki/images/5/52/Carcol-GTAV-130.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+130,Worn Orange,Worn Orange,Worn Orange / Worn Orange,Worn Orange (id=130),#C96E34,201,110,52,,130_worn-orange-2_c96e34.png,130_worn-orange-2_c96e34.png,,Base,130_base_c96e34.png; ,https://static.wikia.nocookie.net/gtawiki/images/d/da/Carcol-GTAV-131.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+131,Matte White,Ice White Matte,Ice White Matte / Matte White,Ice White (id=131),#D9D9D9,217,217,217,,131_ice-white-matte_d9d9d9.png,131_ice-white-matte_d9d9d9.png,Matte,Base,131_base_d9d9d9.png; ,https://static.wikia.nocookie.net/gtawiki/images/e/e5/Carcol-GTAV-132.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+132,Worn White,Worn White,Worn White / Worn White,Worn White (id=132),#F0F0F0,240,240,240,,132_worn-white_f0f0f0.png,132_worn-white_f0f0f0.png,,Base,132_base_f0f0f0.png; ,https://static.wikia.nocookie.net/gtawiki/images/e/ea/Carcol-GTAV-133.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+133,Worn Olive Army Green,Worn Olive Army Green,Worn Olive Army Green / Worn Olive Army Green,Worn Olive Army Green (id=133),#3F4228,63,66,40,,133_worn-olive-army-green_3f4228.png,133_worn-olive-army-green_3f4228.png,,Base,133_base_3f4228.png; ,https://static.wikia.nocookie.net/gtawiki/images/3/3e/Carcol-GTAV-134.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+134,Pure White,Pure White,Pure White / Pure White,Pure White (id=134),#FFFFFF,255,255,255,,134_pure-white_ffffff.png,134_pure-white_ffffff.png,,Base,134_base_ffffff.png; ,https://static.wikia.nocookie.net/gtawiki/images/d/df/Carcol-GTAV-135.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+135,Hot Pink,Hot Pink,Hot Pink / Hot Pink,Hot Pink (id=135),#B01259,176,18,89,Hot Pink (id=135),135_hot-pink_b01259.png,135_hot-pink_b01259.png,Classic; Metallic; Pearlescent,Accent; Base; Trim; Wheel,"135_accent_hot-pink_b01259.png; 
+135_base_b01259.png; 
+135_pearlescent_hot-pink_b01259.png; 
+135_wheel_hot-pink_b01259.png;; ",https://static.wikia.nocookie.net/gtawiki/images/a/a3/Carcol-GTAV-136.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+136,Salmon Pink,Salmon Pink,Salmon Pink / Salmon Pink,Salmon Pink (id=136),#F69799,246,151,153,Bluish Silver (id=5),136_salmon-pink_f69799.png,136_salmon-pink_f69799.png,Classic; Metallic; Pearlescent,Accent; Base; Trim; Wheel,"136_accent_salmon-pink_f69799.png; 
+136_base_f69799.png; 
+136_pearlescent_salmon-pink_f69799.png; 
+136_trim_salmon-pink_f69799.png; 
+136_wheel_salmon-pink_f69799.png;; ",https://static.wikia.nocookie.net/gtawiki/images/5/55/Carcol-GTAV-137.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+137,Metallic Vermillion Pink,Pfister Pink,Pfister Pink / Metallic Vermillion Pink,Pfister Pink (id=137),#8F2F55,143,47,85,Dark Steel (id=3),137_pfister-pink_8f2f55.png,137_pfister-pink_8f2f55.png,Classic; Metallic; Pearlescent,Accent; Base; Trim,"137_accent_pfister-pink_8f2f55.png; 
+137_base_8f2f55.png; 
+137_pearlescent_pfister-pink_8f2f55.png; 
+137_trim_pfister-pink_8f2f55.png;; ",https://static.wikia.nocookie.net/gtawiki/images/6/6b/Carcol-GTAV-138.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+138,Orange,Bright Orange,Bright Orange / Orange,Bright Orange (id=138),#C26610,194,102,16,Race Yellow (id=89),138_bright-orange_c26610.png,138_bright-orange_c26610.png,Classic; Metallic; Pearlescent,Accent; Base; Trim; Wheel,"138_accent_bright-orange_c26610.png; 
+138_base_c26610.png; 
+138_pearlescent_bright-orange_c26610.png; 
+138_trim_bright-orange_c26610.png; 
+138_wheel_bright-orange_c26610.png;; ",https://static.wikia.nocookie.net/gtawiki/images/f/f3/Carcol-GTAV-139.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+139,Green,Green Bright,Green Bright / Green,"Green Bright, Green (id=139)",#69BD45,105,189,69,,139_green-bright_69bd45.png,139_green-bright_69bd45.png,,Base,139_base_69bd45.png; ,https://static.wikia.nocookie.net/gtawiki/images/e/e3/Carcol-GTAV-140.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+140,Blue,Fluorescent Blue,Fluorescent Blue / Blue,Fluorescent Blue (id=140),#00AEEF,0,174,239,,140_fluorescent-blue_00aeef.png,140_fluorescent-blue_00aeef.png,,Base; Trim; Wheel,"140_base_00aeef.png; 
+140_wheel_fluorescent-blue_00aeef.png;; ",https://static.wikia.nocookie.net/gtawiki/images/b/b9/Carcol-GTAV-141.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+141,Mettalic Black Blue,Midnight Blue,Midnight Blue / Mettalic Black Blue,Midnight Blue (id=141),#000108,0,1,8,Racing Blue (id=73),141_midnight-blue_000108.png,141_midnight-blue_000108.png,Classic; Metallic; Pearlescent,Base; Trim,"141_base_000108.png; 
+141_pearlescent_midnight-blue_000108.png; 
+141_trim_midnight-blue_000108.png;; ",https://static.wikia.nocookie.net/gtawiki/images/7/7b/Carcol-GTAV-142.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+142,Metallic Black Purple,Midnight Purple,Midnight Purple / Metallic Black Purple,Midnight Purple (id=142),#050008,5,0,8,,142_midnight-purple_050008.png,142_midnight-purple_050008.png,Classic; Metallic; Pearlescent,Base; Trim; Wheel,"142_base_050008.png; 
+142_pearlescent_midnight-purple_050008.png; 
+142_wheel_midnight-purple_050008.png;; ",https://static.wikia.nocookie.net/gtawiki/images/8/8b/Carcol-GTAV-143.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+143,Metallic Black Red,Wine Red,Wine Red / Metallic Black Red,Wine Red (id=143),#080000,8,0,0,Grace Red (id=31),143_wine-red_080000.png,143_wine-red_080000.png,Classic; Metallic; Pearlescent,Base; Trim,"143_base_080000.png; 
+143_pearlescent_wine-red_080000.png; 
+143_trim_wine-red_080000.png;; ",https://static.wikia.nocookie.net/gtawiki/images/7/7c/Carcol-GTAV-144.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+144,Hunter Green,Hunter Green,Hunter Green / Hunter Green,Hunter Green (id=144),#565751,86,87,81,,144_hunter-green_565751.png,144_hunter-green_565751.png,,Base,144_base_565751.png; ,https://static.wikia.nocookie.net/gtawiki/images/b/b9/Carcol-GTAV-145.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+145,Metallic Purple,"Bright Purple, Schafter Purple","Bright Purple, Schafter Purple / Metallic Purple",Schafter Purple (id=145),#320642,50,6,66,Light Blue (id=74),145_bright-purple-schafter-purple_320642.png,145_bright-purple-schafter-purple_320642.png,Classic; Metallic; Pearlescent,Accent; Base; Trim; Wheel,"145_accent_bright-purple_320642.png; 
+145_base_320642.png; 
+145_pearlescent_bright-purple_320642.png; 
+145_trim_bright-purple_320642.png; 
+145_wheel_schafter-purple_320642.png;; ",https://static.wikia.nocookie.net/gtawiki/images/b/bc/Carcol-GTAV-146.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+146,Metaillic V Dark Blue,"Midnight Purple, V Dark Blue","Midnight Purple, V Dark Blue / Metaillic V Dark Blue",Midnight Purple (id=146),#00080F,0,8,15,Bright Purple (id=145),146_midnight-purple-v-dark-blue_00080f.png,146_midnight-purple-v-dark-blue_00080f.png,,Base; Trim,"146_base_00080f.png; 
+146_trim_midnight-purple_00080f.png;; ",https://static.wikia.nocookie.net/gtawiki/images/a/ab/Carcol-GTAV-147.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+147,Modshop Black,Carbon Black,Carbon Black / Modshop Black,Carbon Black (id=147),#080808,8,8,8,Silver (id=4),147_carbon-black_080808.png,147_carbon-black_080808.png,Classic; Metallic; Pearlescent,Base,"147_base_080808.png; 
+147_pearlescent_carbon-black_080808.png; 
+147_pearlescent_none_none.png;; ",https://static.wikia.nocookie.net/gtawiki/images/4/4d/Carcol-GTAV-148.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+148,Matte Purple,Matte Schafter Purple,Matte Schafter Purple / Matte Purple,Schafter Purple (id=148),#320642,50,6,66,,148_matte-schafter-purple_320642.png,148_matte-schafter-purple_320642.png,Matte,Base,148_base_320642.png; ,https://static.wikia.nocookie.net/gtawiki/images/2/2b/Carcol-GTAV-149.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+149,Matte Dark Purple,Matte Midnight Purple,Matte Midnight Purple / Matte Dark Purple,Midnight Purple (id=149),#050008,5,0,8,,149_matte-midnight-purple_050008.png,149_matte-midnight-purple_050008.png,Matte,Base,149_base_050008.png; ,https://static.wikia.nocookie.net/gtawiki/images/9/9c/Carcol-GTAV-150.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+150,Metallic Lava Red,Lava Red,Lava Red / Metallic Lava Red,Lava Red (id=150),#6B0B00,107,11,0,Matte Yellow (id=42),150_lava-red_6b0b00.png,150_lava-red_6b0b00.png,Classic; Metallic; Pearlescent,Accent; Base; Trim,"150_accent_lava-red_6b0b00.png; 
+150_base_6b0b00.png; 
+150_pearlescent_lava-red_6b0b00.png; 
+150_trim_lava-red_6b0b00.png;; ",https://static.wikia.nocookie.net/gtawiki/images/1/1e/Carcol-GTAV-151.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+151,Matte Forest Green,Matte Forest Green,Matte Forest Green / Matte Forest Green,Forest Green (id=151),#121710,18,23,16,,151_matte-forest-green_121710.png,151_matte-forest-green_121710.png,Matte,Base,151_base_121710.png; ,https://static.wikia.nocookie.net/gtawiki/images/8/8e/Carcol-GTAV-152.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+152,Matte Olive Drab,Matte Olive Drab,Matte Olive Drab / Matte Olive Drab,Olive Drab (id=152),#323325,50,51,37,,152_matte-olive-drab_323325.png,152_matte-olive-drab_323325.png,Matte,Base,152_base_323325.png; ,https://static.wikia.nocookie.net/gtawiki/images/0/04/Carcol-GTAV-153.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+153,Matte Desert Brown,"Dark Earth, Matte Dark Earth","Dark Earth, Matte Dark Earth / Matte Desert Brown",Dark Earth (id=153),#3B352D,59,53,45,,153_dark-earth-matte-dark-earth_3b352d.png,153_dark-earth-matte-dark-earth_3b352d.png,Matte,Base; Trim; Wheel,"153_base_3b352d.png; 
+153_wheel_dark-earth_3b352d.png;; ",https://static.wikia.nocookie.net/gtawiki/images/2/21/Carcol-GTAV-154.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+154,Matte Desert Tan,Desert Tan,Desert Tan / Matte Desert Tan,Desert Tan (id=154),#706656,112,102,86,,154_desert-tan-matte-desert-tan_706656.png,154_desert-tan-matte-desert-tan_706656.png,Matte,Base; Trim; Wheel,"154_base_706656.png; 
+154_wheel_desert-tan_706656.png;; ",https://static.wikia.nocookie.net/gtawiki/images/d/dd/Carcol-GTAV-155.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+155,Matte Foilage Green,Matte Foliage Green,Matte Foliage Green / Matte Foilage Green,Foliage Green (id=155),#2B302B,43,48,43,,155_matte-foliage-green_2b302b.png,155_matte-foliage-green_2b302b.png,Matte,Base,155_base_2b302b.png; ,https://static.wikia.nocookie.net/gtawiki/images/0/01/Carcol-GTAV-156.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+156,Default Alloy,Alloy,Alloy / Default Alloy,Alloy (id=156),#414347,65,67,71,,156_alloy-default-alloy-color_414347.png,156_alloy-default-alloy-color_414347.png,,Base; Trim; Wheel,"156_base_414347.png; 
+156_wheel_alloy_414347.png;; ",https://static.wikia.nocookie.net/gtawiki/images/c/c6/Carcol-GTAV-157.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+157,Epsilon Blue,Epsilon Blue,Epsilon Blue / Epsilon Blue,Epsilon Blue (id=157),#6690B5,102,144,181,,157_epsilon-blue_6690b5.png,157_epsilon-blue_6690b5.png,,Base,157_base_6690b5.png; ,https://static.wikia.nocookie.net/gtawiki/images/7/74/Carcol-GTAV-158.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+158,MP100 Gold,Pure Gold,Pure Gold / MP100 Gold,Pure Gold (id=158),#47391B,71,57,27,MP100 (id=160),158_pure-gold_47391b.png,158_pure-gold_47391b.png,Metals,Base,158_base_47391b.png; ,https://static.wikia.nocookie.net/gtawiki/images/5/5a/Carcol-GTAV-159.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+159,MP100 Gold Satin,Brushed Gold,Brushed Gold / MP100 Gold Satin,Brushed Gold (id=159),#47391B,71,57,27,MP100 (id=160),159_brushed-gold_47391b.png,159_brushed-gold_47391b.png,Metals,Base,159_base_47391b.png; ,https://static.wikia.nocookie.net/gtawiki/images/0/03/Carcol-GTAV-160.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+160,MP100 Gold Spec,MP100,MP100 / MP100 Gold Spec,"MP100, MP100 Gold Spec (id=160)",#FFD859,255,216,89,,160_mp100_ffd859.png,160_mp100_ffd859.png,,Base,160_base_ffd859.png; ,https://static.wikia.nocookie.net/gtawiki/images/0/03/Carcol-GTAV-160.png,https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Respray_Colors#Other_colors
+161,Anodized Red Pearl,Anodized Red,Anodized Red / Anodized Red Pearl,Anodized Red Pearl (id=161),#A13F4C,161,63,76,,161_anodized-red_a13f4c.png,161_anodized-red_a13f4c.png,Chameleon,Base,"161_base_a13f4c.png; 
+161_chameleon_anodized-red-pearl_a13f4c.png;; ",https://i.imgur.com/ncJKL2I.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#ncJKL2I
+162,Anodized Wine Pearl,Anodized Wine,Anodized Wine / Anodized Wine Pearl,Anodized Burgundy Pearl (id=162),#6C2B3A,108,43,58,,162_anodized-wine_6c2b3a.png,162_anodized-wine_6c2b3a.png,Chameleon,Base; Trim; Wheel,"162_base_6c2b3a.png; 
+162_wheel_anodized-burgundy-pearl_6c2b3a.png;; ",https://i.imgur.com/GFONoHq.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#GFONoHq
+163,Anodized Purple Pearl,Anodized Purple,Anodized Purple / Anodized Purple Pearl,Anodized Purple Pearl (id=163),#7B4BA3,123,75,163,Anodized Blue (id=164),163_anodized-purple_7b4ba3.png,163_anodized-purple_7b4ba3.png,Chameleon,Base,"163_base_7b4ba3.png; 
+163_chameleon_anodized-purple-pearl_7b4ba3.png;; ",https://i.imgur.com/J8n4Ilb.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#J8n4Ilb
+164,Anodized Blue Pearl,Anodized Blue,Anodized Blue / Anodized Blue Pearl,Anodized Blue Pearl (id=164),#3A5CA3,58,92,163,,164_anodized-blue_3a5ca3.png,164_anodized-blue_3a5ca3.png,Chameleon,Base,"164_base_3a5ca3.png; 
+164_chameleon_anodized-blue-pearl_3a5ca3.png;; ",https://i.imgur.com/BUBjnor.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#BUBjnor
+165,Anodized Green Pearl,Anodized Green,Anodized Green / Anodized Green Pearl,Anodized Green Pearl (id=165),#3AA36C,58,163,108,,165_anodized-green_3aa36c.png,165_anodized-green_3aa36c.png,Chameleon,Base,165_base_3aa36c.png; ,https://i.imgur.com/uEiwvwq.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#uEiwvwq
+166,Anodized Lime Pearl,Anodized Lime,Anodized Lime / Anodized Lime Pearl,Anodized Lime Pearl (id=166),#9EDC4A,158,220,74,,166_anodized-lime_9edc4a.png,166_anodized-lime_9edc4a.png,Chameleon,Base; Trim; Wheel,"166_base_9edc4a.png; 
+166_wheel_anodized-lime-pearl_9edc4a.png;; ",https://i.imgur.com/6Q41ucs.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#6Q41ucs
+167,Anodized Copper Pearl,Anodized Copper,Anodized Copper / Anodized Copper Pearl,Anodized Copper Pearl (id=167),#B76D3A,183,109,58,,167_anodized-copper_b76d3a.png,167_anodized-copper_b76d3a.png,Chameleon,Base; Trim; Wheel,"167_base_b76d3a.png; 
+167_chameleon_anodized-copper-pearl_b76d3a.png; 
+167_wheel_anodized-copper-pearl_b76d3a.png;; ",https://i.imgur.com/EvACxjQ.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#EvACxjQ
+168,Anodized Bronze Pearl,Anodized Bronze,Anodized Bronze / Anodized Bronze Pearl,Anodized Bronze Pearl (id=168),#A37B4B,163,123,75,,168_anodized-bronze_a37b4b.png,168_anodized-bronze_a37b4b.png,Chameleon,Base,168_base_a37b4b.png; ,https://i.imgur.com/GjLMcXI.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#GjLMcXI
+169,Anodized Champagne Pearl,Anodized Champagne,Anodized Champagne / Anodized Champagne Pearl,Anodized Champagne Pearl (id=169),#E1D9A3,225,217,163,MP100 (id=160),169_anodized-champagne_e1d9a3.png,169_anodized-champagne_e1d9a3.png,Chameleon,Base,169_base_e1d9a3.png; ,https://i.imgur.com/8WvtgiY.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#8WvtgiY
+170,Anodized Gold Pearl,Anodized Gold,Anodized Gold / Anodized Gold Pearl,Anodized Gold Pearl (id=170),#E1C84A,225,200,74,Lime Green (id=92),170_anodized-gold_e1c84a.png,170_anodized-gold_e1c84a.png,Chameleon,Base; Trim; Wheel,"170_base_e1c84a.png; 
+170_chameleon_anodized-gold-pearl_e1c84a.png; 
+170_wheel_anodized-gold-pearl_e1c84a.png;; ",https://i.imgur.com/dJiyfpz.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#dJiyfpz
+171,Green/Blue Flip,Green Blue Flip,Green Blue Flip / Green/Blue Flip,Green/Blue Flip (id=171),#3AA3A3,58,163,163,,171_green-blue-flip_3aa3a3.png,171_green-blue-flip_3aa3a3.png,Chameleon,Base,"171_base_3aa3a3.png; 
+171_chameleon_green-blue-flip_3aa3a3.png;; ",https://i.imgur.com/J6zKdWJ.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#J6zKdWJ
+172,Green/Red Flip,Green Red Flip,Green Red Flip / Green/Red Flip,Green/Red Flip (id=172),#A33A5C,163,58,92,,172_green-red-flip_a33a5c.png,172_green-red-flip_a33a5c.png,Chameleon,Base,172_base_a33a5c.png; ,https://i.imgur.com/Px5an3g.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#Px5an3g
+173,Green/Brown Flip,Green Brown Flip,Green Brown Flip / Green/Brown Flip,Green/Brown Flip (id=173),#6C6C2B,108,108,43,,173_green-brown-flip_6c6c2b.png,173_green-brown-flip_6c6c2b.png,Chameleon,Base,173_base_6c6c2b.png; ,https://i.imgur.com/tJQ4xrx.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#tJQ4xrx
+174,Green/Turquoise Flip,Green Turqoise Flip,Green Turqoise Flip / Green/Turquoise Flip,Green/Turquoise Flip (id=174),#3AA39E,58,163,158,,174_green-turqoise-flip_3aa39e.png,174_green-turqoise-flip_3aa39e.png,Chameleon,Base; Trim; Wheel,"174_base_3aa39e.png; 
+174_wheel_green-turquoise-flip_3aa39e.png;; ",https://i.imgur.com/J5pRcoP.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#J5pRcoP
+175,Green/Purple Flip,Green Purple Flip,Green Purple Flip / Green/Purple Flip,Green/Purple Flip (id=175),#6C3AA3,108,58,163,,175_green-purple-flip_6c3aa3.png,175_green-purple-flip_6c3aa3.png,Chameleon,Base,175_base_6c3aa3.png; ,https://i.imgur.com/TFsmzVL.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#TFsmzVL
+176,Teal/Purple Flip,Teal Purple Flip,Teal Purple Flip / Teal/Purple Flip,Teal/Purple Flip (id=176),#3A7BA3,58,123,163,,176_teal-purple-flip_3a7ba3.png,176_teal-purple-flip_3a7ba3.png,Chameleon,Base,176_base_3a7ba3.png; ,https://i.imgur.com/qQnpTOx.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#qQnpTOx
+177,Turquoise/Red Flip,Turqoise Red Flip,Turqoise Red Flip / Turquoise/Red Flip,Turquoise/Red Flip (id=177),#3AA36C,58,163,108,,177_turqoise-red-flip_3aa36c.png,177_turqoise-red-flip_3aa36c.png,Chameleon,Base,177_base_3aa36c.png; ,https://i.imgur.com/fkHyD6S.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#fkHyD6S
+178,Turquoise/Purple Flip,Turqoise Purple Flip,Turqoise Purple Flip / Turquoise/Purple Flip,Turquoise/Purple Flip (id=178),#3A7BA3,58,123,163,,178_turqoise-purple-flip_3a7ba3.png,178_turqoise-purple-flip_3a7ba3.png,Chameleon,Base,178_base_3a7ba3.png; ,https://i.imgur.com/VAPz0QN.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#VAPz0QN
+179,Cyan/Purple Flip,Cyan Purple Flip,Cyan Purple Flip / Cyan/Purple Flip,Cyan/Red Flip (id=179),#3A5CA3,58,92,163,,179_cyan-purple-flip_3a5ca3.png,179_cyan-purple-flip_3a5ca3.png,Chameleon,Base; Trim; Wheel,"179_base_3a5ca3.png; 
+179_wheel_cyan-red-flip_3a5ca3.png;; ",https://i.imgur.com/wkhimLo.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#wkhimLo
+180,Blue/Pink Flip,Blue Pink Flip,Blue Pink Flip / Blue/Pink Flip,Blue/Pink Flip (id=180),#A33A6C,163,58,108,,180_blue-pink-flip_a33a6c.png,180_blue-pink-flip_a33a6c.png,Chameleon,Base; Trim; Wheel,"180_base_a33a6c.png; 
+180_chameleon_blue-pink-flip_a33a6c.png;; ",https://i.imgur.com/xED7EWx.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#xED7EWx
+181,Blue/Green Flip,Blue Green Flip,Blue Green Flip / Blue/Green Flip,Blue/Green Flip (id=181),#3AA36C,58,163,108,,181_blue-green-flip_3aa36c.png,181_blue-green-flip_3aa36c.png,Chameleon,Base; Trim; Wheel,"181_base_3aa36c.png; 
+181_wheel_blue-green-flip_3aa36c.png;; ",https://i.imgur.com/CaEf8D9.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#CaEf8D9
+182,Purple/Red Flip,Purple Red Flip,Purple Red Flip / Purple/Red Flip,Purple/Red Flip (id=182),#A33A5C,163,58,92,,182_purple-red-flip_a33a5c.png,182_purple-red-flip_a33a5c.png,Chameleon,Base,182_base_a33a5c.png; ,https://i.imgur.com/RiydC74.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#RiydC74
+183,Purple/Green Flip,Purple Green Flip,Purple Green Flip / Purple/Green Flip,Purple/Green Flip (id=183),#6CA33A,108,163,58,,183_purple-green-flip_6ca33a.png,183_purple-green-flip_6ca33a.png,Chameleon,Base,"183_base_6ca33a.png; 
+183_chameleon_purple-green-flip_6ca33a.png;; ",https://i.imgur.com/LMtQh49.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#LMtQh49
+184,Magenta/Green Flip,Magenta Green Flip,Magenta Green Flip / Magenta/Green Flip,Magenta/Green Flip (id=184),#A33AA3,163,58,163,,184_magenta-green-flip_a33aa3.png,184_magenta-green-flip_a33aa3.png,Chameleon,Base,184_base_a33aa3.png; ,https://i.imgur.com/tu0EBgK.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#tu0EBgK
+185,Magenta/Yellow Flip,Magenta Yellow Flip,Magenta Yellow Flip / Magenta/Yellow Flip,Magenta/Yellow Flip (id=185),#A39E3A,163,158,58,,185_magenta-yellow-flip_a39e3a.png,185_magenta-yellow-flip_a39e3a.png,Chameleon,Base; Trim; Wheel,"185_base_a39e3a.png; 
+185_wheel_magenta-yellow-flip_a39e3a.png;; ",https://i.imgur.com/I4Bfjmn.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#I4Bfjmn
+186,Burgundy/Green Flip,Burgundy Green Flip,Burgundy Green Flip / Burgundy/Green Flip,Burgundy/Green Flip (id=186),#6C3A3A,108,58,58,,186_burgundy-green-flip_6c3a3a.png,186_burgundy-green-flip_6c3a3a.png,Chameleon,Base,"186_base_6c3a3a.png; 
+186_chameleon_burgundy-green-flip_6c3a3a.png;; ",https://i.imgur.com/xdHs90H.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#xdHs90H
+187,Magenta/Cyan Flip,Magenta Cyan Flip,Magenta Cyan Flip / Magenta/Cyan Flip,Magenta/Cyan Flip (id=187),#3AA3A3,58,163,163,,187_magenta-cyan-flip_3aa3a3.png,187_magenta-cyan-flip_3aa3a3.png,Chameleon,Base,187_base_3aa3a3.png; ,https://i.imgur.com/p1caAqu.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#p1caAqu
+188,Copper/Purple Flip,Copper Purple Flip,Copper Purple Flip / Copper/Purple Flip,Copper/Purple Flip (id=188),#A37B4B,163,123,75,,188_copper-purple-flip_a37b4b.png,188_copper-purple-flip_a37b4b.png,Chameleon,Base,188_base_a37b4b.png; ,https://i.imgur.com/xUL2aJK.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#xUL2aJK
+189,Magenta/Orange Flip,Magenta Orange Flip,Magenta Orange Flip / Magenta/Orange Flip,Magenta/Orange Flip (id=189),#A36C3A,163,108,58,,189_magenta-orange-flip_a36c3a.png,189_magenta-orange-flip_a36c3a.png,Chameleon,Base,189_base_a36c3a.png; ,https://i.imgur.com/FQG5skI.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#FQG5skI
+190,Red/Orange Flip,Red Orange Flip,Red Orange Flip / Red/Orange Flip,Red/Orange Flip (id=190),#A36C3A,163,108,58,,190_red-orange-flip_a36c3a.png,190_red-orange-flip_a36c3a.png,Chameleon,Base,"190_base_a36c3a.png; 
+190_chameleon_red-orange-flip_a36c3a.png;; ",https://i.imgur.com/aCJJr0O.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#aCJJr0O
+191,Orange/Purple Flip,Orange Purple Flip,Orange Purple Flip / Orange/Purple Flip,Orange/Purple Flip (id=191),#A36C3A,163,108,58,,191_orange-purple-flip_a36c3a.png,191_orange-purple-flip_a36c3a.png,Chameleon,Base,"191_base_a36c3a.png; 
+191_chameleon_orange-purple-flip_a36c3a.png;; ",https://i.imgur.com/RTe0r1w.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#RTe0r1w
+192,Orange/Blue Flip,Orange Blue Flip,Orange Blue Flip / Orange/Blue Flip,Orange/Blue Flip (id=192),#3A5CA3,58,92,163,,192_orange-blue-flip_3a5ca3.png,192_orange-blue-flip_3a5ca3.png,Chameleon,Base,"192_base_3a5ca3.png; 
+192_chameleon_orange-blue-flip_3a5ca3.png;; ",https://i.imgur.com/p7CPp1D.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#p7CPp1D
+193,White/Purple Flip,White Purple Flip,White Purple Flip / White/Purple Flip,White/Purple Flip (id=193),#D9A3E1,217,163,225,,193_white-purple-flip_d9a3e1.png,193_white-purple-flip_d9a3e1.png,Chameleon,Base,193_base_d9a3e1.png; ,https://i.imgur.com/Rbm3yZA.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#Rbm3yZA
+194,Red Rainbow Flip,Red Rainbow Flip,Red Rainbow Flip / Red Rainbow Flip,Red Rainbow Flip (id=194),#A33A3A,163,58,58,,194_red-rainbow-flip_a33a3a.png,194_red-rainbow-flip_a33a3a.png,Chameleon,Base; Trim; Wheel,"194_base_a33a3a.png; 
+194_wheel_red-rainbow-flip_a33a3a.png;; ",https://i.imgur.com/X7oCWEP.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#X7oCWEP
+195,Blue Rainbow Flip,Blue Rainbow Flip,Blue Rainbow Flip / Blue Rainbow Flip,Blue Rainbow Flip (id=195),#3A5CA3,58,92,163,,195_blue-rainbow-flip_3a5ca3.png,195_blue-rainbow-flip_3a5ca3.png,Chameleon,Base,"195_base_3a5ca3.png; 
+195_chameleon_blue-rainbow-flip_3a5ca3.png;; ",https://i.imgur.com/Da7I2ub.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#Da7I2ub
+196,Dark Green Pearl,Dark Green Pearl,Dark Green Pearl / Dark Green Pearl,Dark Green Pearl (id=196),#2B6C3A,43,108,58,,196_dark-green-pearl_2b6c3a.png,196_dark-green-pearl_2b6c3a.png,Chameleon,Base,"196_base_2b6c3a.png; 
+196_chameleon_dark-green-pearl_2b6c3a.png;; ",https://i.imgur.com/mnKOyDD.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#mnKOyDD
+197,Dark Teal Pearl,Dark Teal Pearl,Dark Teal Pearl / Dark Teal Pearl,Dark Teal Pearl (id=197),#2B6C6C,43,108,108,,197_dark-teal-pearl_2b6c6c.png,197_dark-teal-pearl_2b6c6c.png,Chameleon,Base,197_base_2b6c6c.png; ,https://i.imgur.com/nX287ol.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#nX287ol
+198,Dark Blue Pearl,Dark Blue Pearl,Dark Blue Pearl / Dark Blue Pearl,Dark Blue Pearl (id=198),#2B3A6C,43,58,108,,198_dark-blue-pearl_2b3a6c.png,198_dark-blue-pearl_2b3a6c.png,Chameleon,Base,"198_base_2b3a6c.png; 
+198_chameleon_dark-blue-pearl_2b3a6c.png;; ",https://i.imgur.com/DyA8IE0.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#DyA8IE0
+199,Dark Purple Pearl,Dark Purple Pearl,Dark Purple Pearl / Dark Purple Pearl,Dark Purple Pearl (id=199),#4B2B6C,75,43,108,,199_dark-purple-pearl_4b2b6c.png,199_dark-purple-pearl_4b2b6c.png,Chameleon,Base,"199_base_4b2b6c.png; 
+199_chameleon_dark-purple-pearl_4b2b6c.png;; ",https://i.imgur.com/AW25ufB.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#AW25ufB
+200,Oil Slick Pearl,Oil Slick Pearl,Oil Slick Pearl / Oil Slick Pearl,Oil Slick Pearl (id=200),#A39E3A,163,158,58,,200_oil-slick-pearl_a39e3a.png,200_oil-slick-pearl_a39e3a.png,Chameleon,Base,"200_base_a39e3a.png; 
+200_chameleon_oil-slick-pearl_a39e3a.png;; ",https://i.imgur.com/ooMyWt2.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#ooMyWt2
+201,Light Green Pearl,Light Green Pearl,Light Green Pearl / Light Green Pearl,Light Green Pearl (id=201),#A3E1D9,163,225,217,,201_light-green-pearl_a3e1d9.png,201_light-green-pearl_a3e1d9.png,Chameleon,Base,201_base_a3e1d9.png; ,https://i.imgur.com/7Hceff5.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#7Hceff5
+202,Light Blue Pearl,Light Blue Pearl,Light Blue Pearl / Light Blue Pearl,Light Blue Pearl (id=202),#A3D9E1,163,217,225,,202_light-blue-pearl_a3d9e1.png,202_light-blue-pearl_a3d9e1.png,Chameleon,Base,202_base_a3d9e1.png; ,https://i.imgur.com/ftqqez6.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#ftqqez6
+203,Light Purple Pearl,Light Purple Pearl,Light Purple Pearl / Light Purple Pearl,Light Purple Pearl (id=203),#D9A3E1,217,163,225,,203_light-purple-pearl_d9a3e1.png,203_light-purple-pearl_d9a3e1.png,Chameleon,Base; Trim; Wheel,"203_base_d9a3e1.png; 
+203_wheel_light-purple-pearl_d9a3e1.png;; ",https://i.imgur.com/TQF9GVO.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#TQF9GVO
+204,Light Pink Pearl,Light Pink Pearl,Light Pink Pearl / Light Pink Pearl,Light Pink Pearl (id=204),#E1A3C8,225,163,200,,204_light-pink-pearl_e1a3c8.png,204_light-pink-pearl_e1a3c8.png,Chameleon,Base,204_base_e1a3c8.png; ,https://i.imgur.com/qAQMIbC.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#qAQMIbC
+205,Off White Prismatic,Off White Pearl,Off White Pearl / Off White Prismatic,Off White Pearl (id=205),#F2F2E6,242,242,230,,205_off-white-pearl_f2f2e6.png,205_off-white-pearl_f2f2e6.png,Chameleon,Base; Trim; Wheel,"205_base_f2f2e6.png; 
+205_chameleon_off-white-pearl_f2f2e6.png; 
+205_wheel_off-white-pearl_f2f2e6.png;; ",https://i.imgur.com/LDDqS5Y.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#LDDqS5Y
+206,Pink Pearl,Pink Pearl,Pink Pearl / Pink Pearl,Soft Pink Pearl (id=206),#E1A3C8,225,163,200,,206_pink-pearl_e1a3c8.png,206_pink-pearl_e1a3c8.png,Chameleon,Base,"206_base_e1a3c8.png; 
+206_chameleon_soft-pink-pearl_e1a3c8.png;; ",https://i.imgur.com/PCBKRPk.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#PCBKRPk
+207,Yellow Pearl,Yellow Pearl,Yellow Pearl / Yellow Pearl,Pastel Yellow Pearl (id=207),#E1D9A3,225,217,163,,207_yellow-pearl_e1d9a3.png,207_yellow-pearl_e1d9a3.png,Chameleon,Base,"207_base_e1d9a3.png; 
+207_chameleon_pastel-yellow-pearl_e1d9a3.png;; ",https://i.imgur.com/O4vxi1h.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#O4vxi1h
+208,Green Pearl,Green Pearl,Green Pearl / Green Pearl,Pastel Green Pearl (id=208),#A3E1D9,163,225,217,,208_green-pearl_a3e1d9.png,208_green-pearl_a3e1d9.png,Chameleon,Base,"208_base_a3e1d9.png; 
+208_chameleon_pastel-green-pearl_a3e1d9.png;; ",https://i.imgur.com/KQqLZ7b.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#KQqLZ7b
+209,Blue Pearl,Blue Pearl,Blue Pearl / Blue Pearl,Baby Blue Pearl (id=209),#A3D9E1,163,217,225,,209_blue-pearl_a3d9e1.png,209_blue-pearl_a3d9e1.png,Chameleon,Base,"209_base_a3d9e1.png; 
+209_chameleon_baby-blue-pearl_a3d9e1.png;; ",https://i.imgur.com/UaY99Eb.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#UaY99Eb
+210,Cream Pearl,Cream Pearl,Cream Pearl / Cream Pearl,Cream Pearl (id=210),#E1E1A3,225,225,163,,210_cream-pearl_e1e1a3.png,210_cream-pearl_e1e1a3.png,Chameleon,Base; Trim; Wheel,"210_base_e1e1a3.png; 
+210_wheel_cream-pearl_e1e1a3.png;; ",https://i.imgur.com/2XxZjQH.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#2XxZjQH
+211,White Prismatic,White Prismatic,White Prismatic / White Prismatic,White Prismatic Pearl (id=211),#FFFFFF,255,255,255,,211_white-prismatic_ffffff.png,211_white-prismatic_ffffff.png,Chameleon,Base; Trim; Wheel,"211_base_ffffff.png; 
+211_chameleon_white-prismatic-pearl_ffffff.png; 
+211_wheel_white-prismatic-pearl_ffffff.png;; ",https://i.imgur.com/eLGzCpn.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#eLGzCpn
+212,Graphite Prismatic,Graphite Prismatic,Graphite Prismatic / Graphite Prismatic,Graphite Prismatic Pearl (id=212),#6C6C6C,108,108,108,,212_graphite-prismatic_6c6c6c.png,212_graphite-prismatic_6c6c6c.png,Chameleon,Base; Trim; Wheel,"212_base_6c6c6c.png; 
+212_wheel_graphite-prismatic-pearl_6c6c6c.png;; ",https://i.imgur.com/dhOgVOq.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#dhOgVOq
+213,Dark Blue Prismatic,Dark Blue Prismatic,Dark Blue Prismatic / Dark Blue Prismatic,Blue Prismatic Pearl (id=213),#2B3A6C,43,58,108,,213_dark-blue-prismatic_2b3a6c.png,213_dark-blue-prismatic_2b3a6c.png,Chameleon,Base,213_base_2b3a6c.png; ,https://i.imgur.com/EX7yUP4.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#EX7yUP4
+214,Dark Purple Prismatic,Dark Purple Prismatic,Dark Purple Prismatic / Dark Purple Prismatic,Purple Prismatic Pearl (id=214),#4B2B6C,75,43,108,,214_dark-purple-prismatic_4b2b6c.png,214_dark-purple-prismatic_4b2b6c.png,Chameleon,Base,214_base_4b2b6c.png; ,https://i.imgur.com/KUUj9kX.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#KUUj9kX
+215,Hot Pink Prismatic,Hot Pink Prismatic,Hot Pink Prismatic / Hot Pink Prismatic,Pink Prismatic Pearl (id=215),#E1A3C8,225,163,200,,215_hot-pink-prismatic_e1a3c8.png,215_hot-pink-prismatic_e1a3c8.png,Chameleon,Base; Trim; Wheel,"215_base_e1a3c8.png; 
+215_chameleon_pink-prismatic-pearl_e1a3c8.png; 
+215_wheel_pink-prismatic-pearl_e1a3c8.png;; ",https://i.imgur.com/wza3v96.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#wza3v96
+216,Red Prismatic,Dark Red Prismatic,Dark Red Prismatic / Red Prismatic,Red Prismatic Pearl (id=216),#A33A3A,163,58,58,,216_dark-red-prismatic_a33a3a.png,216_dark-red-prismatic_a33a3a.png,Chameleon,Base,"216_base_a33a3a.png; 
+216_chameleon_red-prismatic-pearl_a33a3a.png;; ",https://i.imgur.com/3il8EjH.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#3il8EjH
+217,Green Prismatic,Dark Green Prismatic,Dark Green Prismatic / Green Prismatic,Green Prismatic Pearl (id=217),#3AA36C,58,163,108,,217_dark-green-prismatic_3aa36c.png,217_dark-green-prismatic_3aa36c.png,Chameleon,Base,"217_base_3aa36c.png; 
+217_chameleon_green-prismatic-pearl_3aa36c.png;; ",https://i.imgur.com/mARm6xB.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#mARm6xB
+218,Black Prismatic,Black Prismatic,Black Prismatic / Black Prismatic,Black Prismatic Pearl (id=218),#2B2B2B,43,43,43,,218_black-prismatic_2b2b2b.png,218_black-prismatic_2b2b2b.png,Chameleon,Base; Trim; Wheel,"218_base_2b2b2b.png; 
+218_chameleon_black-prismatic-pearl_2b2b2b.png; 
+218_wheel_black-prismatic-pearl_2b2b2b.png;; ",https://i.imgur.com/4P79vMg.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#4P79vMg
+219,Oil Slick Prismatic,Black Oil Spill,Black Oil Spill / Oil Slick Prismatic,Black Oil Spill Prismatic (id=219),#A39E3A,163,158,58,,219_black-oil-spill_a39e3a.png,219_black-oil-spill_a39e3a.png,Chameleon,Base,"219_base_a39e3a.png; 
+219_chameleon_black-oil-spill-prismatic_a39e3a.png;; ",https://i.imgur.com/786m2Vn.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#786m2Vn
+220,Rainbow Prismatic,Black Rainbow,Black Rainbow / Rainbow Prismatic,Black Rainbow Prismatic (id=220),#E1A3C8,225,163,200,,220_black-rainbow_e1a3c8.png,220_black-rainbow_e1a3c8.png,Chameleon,Base,"220_base_e1a3c8.png; 
+220_chameleon_black-rainbow-prismatic_e1a3c8.png;; ",https://i.imgur.com/siXjuT8.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#siXjuT8
+221,Black Holographic,Dark Holographic,Dark Holographic / Black Holographic,Dark Holographic (id=221),#2B2B2B,43,43,43,,221_black-holographic_2b2b2b.png,221_black-holographic_2b2b2b.png,Chameleon,Base; Trim; Wheel,"221_base_2b2b2b.png; 
+221_chameleon_dark-holographic_2b2b2b.png; 
+221_wheel_dark-holographic_2b2b2b.png;; ",https://i.imgur.com/7r5Mb7V.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#7r5Mb7V
+222,White Holographic,Light Holographic,Light Holographic / White Holographic,Light Holographic (id=222),#FFFFFF,255,255,255,,222_white-holographic_ffffff.png,222_white-holographic_ffffff.png,Chameleon,Base,"222_base_ffffff.png; 
+222_chameleon_light-holographic_ffffff.png;; ",https://i.imgur.com/Z1rgrma.png,https://imgur.com/a/gta-online-all-62-chameleon-colours-SSFPREm#Z1rgrma

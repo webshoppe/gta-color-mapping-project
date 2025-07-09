@@ -1,0 +1,23 @@
+ID,Description,Color Name,Hex (Web RGB),R,G,B,Color Chip,Preview Image,Unlock Requirement,Group ID,Reference Sources
+0,White Tire Smoke,White,#FFFFFF,255,255,255,white_ffffff.png,,,Tire Smoke,
+1,Black Tire Smoke,Black,#141414,20,20,20,black_141414.png,tiresmoke_black_141414.png,Rank 15,Tire Smoke,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/9/92/Wheels-GTAV-TireSmoke-Black.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Tire_Smoke"
+2,Blue Tire Smoke,Blue,#00AAEE,0,170,238,blue_00aaee.png,tiresmoke_blue_00aaee.png,Rank 25,Tire Smoke,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/0/07/Wheels-GTAV-TireSmoke-Blue.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Tire_Smoke"
+3,Yellow Tire Smoke,Yellow,#FCEE00,252,238,0,yellow_fcee00.png,tiresmoke_yellow_fcee00.png,Rank 43,Tire Smoke,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/0/03/Wheels-GTAV-TireSmoke-Yellow.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Tire_Smoke"
+4,Purple Tire Smoke,Purple,#8466E2,132,102,226,purple_8466e2.png,tiresmoke_purple_8466e2.png,,Tire Smoke,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/e/e0/Wheels-GTAV-TireSmoke-Purple.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Tire_Smoke"
+5,Orange Tire Smoke,Orange,#FF7F00,255,127,0,orange_ff7f00.png,tiresmoke_orange_ff7f00.png,Rank 55,Tire Smoke,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/c/c2/Wheels-GTAV-TireSmoke-Orange.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Tire_Smoke"
+6,Green Tire Smoke,Green,#72C72C,114,199,44,green_72c72c.png,tiresmoke_green_72c72c.png,,Tire Smoke,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/3/31/Wheels-GTAV-TireSmoke-Green.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Tire_Smoke"
+7,Red Tire Smoke,Red,#E20606,226,6,6,red_e20606.png,tiresmoke_red_e20606.png,Rank 65,Tire Smoke,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/9/93/Wheels-GTAV-TireSmoke-Red.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Tire_Smoke"
+8,Pink Tire Smoke,Pink,#FC7CB2,252,124,178,pink_fc7cb2.png,tiresmoke_pink_fc7cb2.png,,Tire Smoke,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/4/40/Wheels-GTAV-TireSmoke-Pink.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Tire_Smoke"
+9,Brown Tire Smoke,Brown,#B48261,180,130,97,brown_b48261.png,tiresmoke_brown_b48261.png,,Tire Smoke,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/b/bc/Wheels-GTAV-TireSmoke-Brown.png; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Tire_Smoke"
+10,Patriot Tire Smoke,Patriot,#000000,0,0,0,patriot_000000.png,tiresmoke_patriot_000000.gif,Patriot Tire Smoke is only available during Independence Day events.,Tire Smoke,"Full Size src: https://static.wikia.nocookie.net/gtawiki/images/7/73/Wheels-GTAV-TireSmoke-Patriot.gif; 
+Img Ref src: https://gta.fandom.com/wiki/Vehicle_Customization_in_GTA_V/Wheels#Tire_Smoke"
+,Crew Tire Smoke,Crew,,,,,,,Crew Level 35,Tire Smoke,
