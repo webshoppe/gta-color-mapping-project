@@ -68,8 +68,8 @@ For the most reliable and visually accurate experience, especially when referenc
 ### For Modders & Developers
 
 **Clone everything for local development**
-git clone https://github.com/webshoppe/gta-color-mapping-project.git
-cd gta-color-mapping-project
+`git clone https://github.com/webshoppe/gta-color-mapping-project.git`
+`cd gta-color-mapping-project`
 
 **Set up Python environment for data processing**
 `python -m venv venv`
