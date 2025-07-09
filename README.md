@@ -101,7 +101,6 @@ For the most reliable and visually accurate experience, especially when referenc
 
 | Community | Focus | Link |
 |-----------|-------|-------------|
-
 | **GTAForums Color Section** | Historical discussions, rare finds | [GTAForums.com](https://gtaforums.com/) |
 | **Se7enSins GTA Section** | Console modding, save editing | [Se7enSins.com](https://www.se7ensins.com/) |
 | **GTA5-Mods.com** | GTA 5 car mods, scripts, tools and more | [GTA5-Mods.com](https://www.gta5-mods.com/) |
