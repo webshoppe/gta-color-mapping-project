@@ -60,7 +60,7 @@ For the most reliable and visually accurate experience, especially when referenc
 ## 🚀 Quick Start
 
 ### For General Users
-1. **Download** → Grab `GTA_Color_Mapping_MASTER_v1.0.xlsx` and/or `GTA_Color_Mapping_MASTER_v1.0.ods` from [releases/](https://github.com/webshoppe/gta-color-mapping-project/releases)
+1. **Download** → Grab `GTA_Color_Mapping_MASTER_v1.0.xlsx` and/or `GTA_Color_Mapping_MASTER_v1.0.ods` from [Releases](https://github.com/webshoppe/gta-color-mapping-project/releases)
 2. **Open in Excel/LibreOffice** or **Upload and open in Google Sheets** → All formatting, images, and tooltips preserved
 3. **Browse by category** → Use the TOC sheet for quick navigation
 4. **Hover for details** → Paint chip cells show mini spec sheets
@@ -76,6 +76,7 @@ For the most reliable and visually accurate experience, especially when referenc
 `source venv/bin/activate # Windows: venv\Scripts\activate`
 `pip install -r scripts/requirements.txt`
 
+**Share your updated projects!**
 ---
 
 ## 🌟 Community Ecosystem
