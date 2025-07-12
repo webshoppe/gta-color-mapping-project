@@ -12,6 +12,14 @@ There are many ways you can contribute to this project. Here are a few ideas:
 - **Improving the Scripts:** Can you make Python scripts more efficient, more readable, or add new functionality for others?
 - **Reporting Bugs:** If you find something that isn't working as expected, please open an issue.
 
+### Contributing Scripts
+
+If you have a useful script you'd like to share, we'd love to include it!
+
+1.  Place your script inside the `/scripts` directory. If it's a multi-file script, please create a sub-folder for it.
+2.  Add a brief description of what your script does and how to run it to the `scripts/README.md` file.
+3.  Submit a Pull Request with your additions.
+   
 ## How to Suggest a Change
 
 The preferred workflow for contributing is to fork the repository, make your changes, and then submit a pull request.
