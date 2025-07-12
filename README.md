@@ -4,7 +4,7 @@ A comprehensive analysis of vehicle color data, complete with processing scripts
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Data Sheets](https://img.shields.io/badge/Sheets-18-green.svg)](#data-overview)
-[![Total Colors](https://img.shields.io/badge/Colors-4000+-red.svg)](#data-overview)
+[![Total Colors](https://img.shields.io/badge/Colors-8000+-red.svg)](#data-overview)
 [![Community](https://img.shields.io/badge/Community-Driven-orange.svg)](#contributing)
 
 [![GitHub stars](https://img.shields.io/github/stars/webshoppe/gta-color-mapping-project?style=social)](https://github.com/webshoppe/gta-color-mapping-project/stargazers) [![GitHub forks](https://img.shields.io/github/forks/webshoppe/gta-color-mapping-project?style=social)](https://github.com/webshoppe/gta-color-mapping-project/fork)
@@ -13,42 +13,17 @@ A comprehensive analysis of vehicle color data, complete with processing scripts
 
 ---
 
-## 🎯 What Makes This Special?
+## 🚀 Get The Data
 
-* **🎨 Comprehensive Coverage** - 4,000+ documented colors across 18 categories: Base colors, Custom hex codes, Crew colors, Vehicle liveries, Chameleon and Pearl paints, Headlights, Neon lights, Tire Smoke and more.
-* **👁️ Visual-First Design** - Every entry includes a 200×112px color swatch and a cell for a resized preview image (many with in-game preview images).
-* **🤖 Mod-Ready Data** - Clean `.xlsx` masters, UTF-8 CSVs with flattened headers, and vehicle display name → model hash and color id mapping via DurtyFree's authoritative `vehicles.json` and `vehicleColors.json`.
-* **📋 Excel/LibreOffice Tooltips** - Hover any paint chip cell for instant spec sheet (Vehicle, Livery, Hex, Crew Code, Color Family).
-* **🔗 Stable IDs** - Vehicle Model IDs link to spawn names, so your bookmarks and scripts won't break across updates.
-* **📚 Battle-Tested Sources** - Rebuilt from Wayback snapshots of joonasprkl's legendary archive, plus GTAForums, Se7enSins, GTA Wiki, Discord communities and extensive field testing.
+### 1. Download the Master Spreadsheet (Recommended for most users)
+Grab the `.xlsx` and/or `.ods` files from our official Releases page. This includes all formatting, images, and tooltips.
 
-*The definitive, community-driven reference for **every** paint-related value in Grand Theft Auto Online.*
+➡️ **[Download from the latest Release](https://github.com/webshoppe/gta-color-mapping-project/releases/latest)**
 
----
+### 2. For Modders & Developers (Raw Data)
+Clone the entire repository to get the raw CSV files, which are ideal for data processing and scripts.
 
-### Note on Excel as the Primary Format for Color Accuracy
-
-We chose Excel (`.xlsx`) as the primary format for this project because it provides the most accurate and vibrant color rendering for our swatches and paint chips. 
-
-In our testing:
-- Excel displays color fills and image swatches with the closest match to in-game colors.
-- LibreOffice (`.ods`) files consistently show colors slightly darker or muted, even though the hex codes remain correct.
-- Google Sheets typically displays colors somewhere between Excel and LibreOffice, but is optimized for Excel compatibility.
-
-For the most reliable and visually accurate experience, especially when referencing specific shades or matching to in-game visuals, we recommend viewing the data in Excel. The `.ods` and `.csv` versions remain available for compatibility and data workflows, but may not represent colors exactly as intended.
-
-### Importing to Google Sheets
-
-For the best results when importing the master `.xlsx` file into Google Sheets, we recommend using the `File > Import` method. The direct "Open with" command can sometimes fail with complex files.
-
-**Recommended Steps:**
-1.  Start a new, blank Google Sheet.
-2.  In the menu, go to **File > Import**.
-3.  Select the **Upload** tab and choose the `.xlsx` file from this project's [Releases page](https://github.com/webshoppe/gta-color-mapping-project/releases).
-4.  When the import options appear, choose **"Replace spreadsheet"**.
-5.  Click **"Import data"**.
-
-This will correctly import the data into a new, native Google Sheet.
+`git clone https://github.com/webshoppe/gta-color-mapping-project.git`
 
 ---
 
@@ -68,28 +43,19 @@ This will correctly import the data into a new, native Google Sheet.
 
 > **💡 Pro Tip**: Columns like `Crew Code(s)` contain leading zeros (`00`) – import CSVs as **Text** type to preserve them!
 
+
 ---
 
-## 🚀 Quick Start
+## 🎯 What Makes This Special?
 
-### For General Users
-1. **Download** → Grab `GTA_Color_Mapping_MASTER_v1.0.xlsx` and/or `GTA_Color_Mapping_MASTER_v1.0.ods` from [Releases](https://github.com/webshoppe/gta-color-mapping-project/releases)
-2. **Open in Excel/LibreOffice** or **Upload and open in Google Sheets** → All formatting, images, and tooltips preserved
-3. **Browse by category** → Use the TOC sheet for quick navigation
-4. **Hover for details** → Paint chip cells show mini spec sheets
+* **🎨 Comprehensive Coverage** – 8,000+ documented colors across 18 categories: Base colors, Custom hex codes, Crew colors, Vehicle liveries, Chameleon and Pearl paints, Headlights, Neon lights, Tire Smoke and more
+* **👁️ Visual-First Design** – Every entry includes a 200×112px color swatch and a cell for a resized preview image (many with in-game preview images)
+* **🤖 Mod-Ready Data** – Clean `.xlsx` masters, UTF-8 CSVs with flattened headers, and vehicle display name → model hash and color id mapping via DurtyFree's authoritative `vehicles.json` and `vehicleColors.json`
+* **📋 Excel/LibreOffice Tooltips** – Hover any paint chip cell for instant spec sheet (Vehicle, Livery, Hex, Crew Code, Color Family)
+* **🔗 Stable IDs** – Vehicle Model IDs link to spawn names, so your bookmarks and scripts won't break across updates
+* **📚 Battle-Tested Sources** – Rebuilt from Wayback snapshots of joonasprkl's legendary archive, plus GTAForums, Se7enSins, GTA Wiki, Discord communities, and extensive field testing
 
-### For Modders & Developers
-
-**Clone everything for local development**
-`git clone https://github.com/webshoppe/gta-color-mapping-project.git`
-`cd gta-color-mapping-project`
-
-**Set up Python environment for data processing**
-`python -m venv venv`
-`source venv/bin/activate # Windows: venv\Scripts\activate`
-`pip install -r scripts/requirements.txt`
-
-**Share your updated projects!**
+*The definitive, community-driven reference for **every** paint-related value in Grand Theft Auto Online.*
 
 ---
 
@@ -98,6 +64,8 @@ This will correctly import the data into a new, native Google Sheet.
 ### Where This Data Lives
 * **🎮 In-Game** → Modshops, Auto Shops, Agency, Arena, LSCM, etc.
 * **🎨 Content Creation** → YouTube tutorials, Reddit showcases, Discord galleries, Community forums
+
+---
 
 ### Related Projects & Inspiration
 
@@ -111,7 +79,7 @@ This will correctly import the data into a new, native Google Sheet.
 
 ---
 
-## 🎮 Community Servers & Resources
+### 🎮 Community Servers & Resources
 
 | Community | Focus | Link |
 |-----------|-------|-------------|
@@ -124,17 +92,30 @@ This will correctly import the data into a new, native Google Sheet.
 
 ---
 
-## 📊 Using The Data
+## 📋 Technical Notes & Usage
 
-### CSV Import (Preserves Leading Zeros)
-**Excel**: Data → From Text/CSV → Set "Crew Code(s)" column to **Text** type  
-**LibreOffice**: File → Open → Text Import → Set "Crew Code(s)" column type to **Text**  
-**Google Sheets**: File → Import → Disable "Convert text to numbers"
+<details>
+<summary><strong>Click to view important notes on file formats and importing.</strong></summary>
+
+### Note on Excel for Color Accuracy
+We chose Excel (`.xlsx`) as the primary format because it provides the most accurate color rendering. In our testing, LibreOffice (`.ods`) can show colors slightly darker, and Google Sheets is a close approximation. For the most reliable visual experience, we recommend viewing the data in Excel.
+
+### Importing to Google Sheets
+For the best results, use the `File > Import` method.
+1. Start a new, blank Google Sheet.
+2. Go to **File > Import > Upload** and select the `.xlsx` file.
+3. Choose **"Replace spreadsheet"** and click **"Import data"**.
+
+### CSV Import (Preserving Leading Zeros)
+- **Excel**: Data → From Text/CSV → Set "Crew Code(s)" column to **Text** type.
+- **LibreOffice**: File → Open → Text Import → Set "Crew Code(s)" column type to **Text**.
+- **Google Sheets**: File → Import → Disable "Convert text to numbers".
+
+</details>
 
 ---
 
 ## 🤝 Contributing
-
 ### 🆕 New Colors
 1. **Fork this repo** and create a feature branch
 2. **Add to appropriate sheet**: Base (official), Custom (community), or Crew (unknown names)
