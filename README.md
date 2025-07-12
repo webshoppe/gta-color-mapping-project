@@ -18,7 +18,7 @@ A comprehensive analysis of vehicle color data, complete with processing scripts
 ### 1. Download the Master Spreadsheet (Recommended for most users)
 Grab the `.xlsx` and/or `.ods` files from our official Releases page. This includes all formatting, images, and tooltips.
 
-➡️ **[Download from the latest Release](https://github.com/webshoppe/gta-color-mapping-project/releases/latest)**
+➡️ **[Download the latest Release](https://github.com/webshoppe/gta-color-mapping-project/releases/latest)**
 
 ### 2. Just want the data from the latest release? 
 Get it from → [`data/output_csvs_flattened`](data/output_csvs_flattened)
