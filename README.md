@@ -4,7 +4,7 @@ A comprehensive analysis of vehicle color data, complete with processing scripts
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Data Sheets](https://img.shields.io/badge/Sheets-18-green.svg)](#data-overview)
-[![Total Colors](https://img.shields.io/badge/Colors-8000+-red.svg)](#data-overview)
+[![Total Colors](https://img.shields.io/badge/Colors-4000+-red.svg)](#data-overview)
 [![Community](https://img.shields.io/badge/Community-Driven-orange.svg)](#contributing)
 
 [![GitHub stars](https://img.shields.io/github/stars/webshoppe/gta-color-mapping-project?style=social)](https://github.com/webshoppe/gta-color-mapping-project/stargazers) [![GitHub forks](https://img.shields.io/github/forks/webshoppe/gta-color-mapping-project?style=social)](https://github.com/webshoppe/gta-color-mapping-project/fork)
@@ -13,19 +13,25 @@ A comprehensive analysis of vehicle color data, complete with processing scripts
 
 ---
 
-## 🚀 Get The Data
+## 🚀 Quick Start → Get The Data
 
 ### 1. Download the Master Spreadsheet (Recommended for most users)
 Grab the `.xlsx` and/or `.ods` files from our official Releases page. This includes all formatting, images, and tooltips.
 
 ➡️ **[Download from the latest Release](https://github.com/webshoppe/gta-color-mapping-project/releases/latest)**
 
-### 2. For Modders & Developers (Raw Data)
+### 2. Just want the data from the latest release? 
+Get it from → [`data/output_csvs_flattened`](data/output_csvs_flattened)
+
+---
+
+## 🔧 For Modders & Developers (Raw Data)
+
 Clone the entire repository to get the raw CSV files, which are ideal for data processing and scripts.
 
 `git clone https://github.com/webshoppe/gta-color-mapping-project.git`
 
-Optional: Set up our Python environment for data processing [requirements.txt](https://github.com/webshoppe/gta-color-mapping-project/blob/main/requirements.txt)
+Optional: Set up our Python environment for data processing [`requirements.txt`](requirements.txt)
 
 `python -m venv venv`
 `source venv/bin/activate # Windows: venv\Scripts\activate`
@@ -54,12 +60,12 @@ Optional: Set up our Python environment for data processing [requirements.txt](h
 
 ## 🎯 What Makes This Special?
 
-* **🎨 Comprehensive Coverage** – 8,000+ documented colors across 18 categories: Base colors, Custom hex codes, Crew colors, Vehicle liveries, Chameleon and Pearl paints, Headlights, Neon lights, Tire Smoke and more
-* **👁️ Visual-First Design** – Every entry includes a 200×112px color swatch and a cell for a resized preview image (many with in-game preview images)
-* **🤖 Mod-Ready Data** – Clean `.xlsx` masters, UTF-8 CSVs with flattened headers, and vehicle display name → model hash and color id mapping via DurtyFree's authoritative `vehicles.json` and `vehicleColors.json`
-* **📋 Excel/LibreOffice Tooltips** – Hover any paint chip cell for instant spec sheet (Vehicle, Livery, Hex, Crew Code, Color Family)
-* **🔗 Stable IDs** – Vehicle Model IDs link to spawn names, so your bookmarks and scripts won't break across updates
-* **📚 Battle-Tested Sources** – Rebuilt from Wayback snapshots of joonasprkl's legendary archive, plus GTAForums, Se7enSins, GTA Wiki, Discord communities, and extensive field testing
+* **🎨 Comprehensive Coverage** - 4,000+ documented colors and combinations across 18 categories: Base colors, Custom hex codes, Crew colors, Vehicle liveries, Chameleon and Pearl paints, Headlights, Neon lights, Tire Smoke and more.
+* **👁️ Visual-First Design** - Every entry includes a 200×112px color swatch and a cell for a resized preview image (many with in-game preview images).
+* **🤖 Mod-Ready Data** - Clean `.xlsx` masters, UTF-8 CSVs with flattened headers, and vehicle display name → model hash and color id mapping via DurtyFree's authoritative `vehicles.json` and `vehicleColors.json`.
+* **📋 Excel/LibreOffice Tooltips** - Hover any paint chip cell for instant spec sheet (Vehicle, Livery, Hex, Crew Code, Color Family).
+* **🔗 Stable IDs** - Vehicle Model IDs link to spawn names, so your bookmarks and scripts won't break across updates.
+* **📚 Battle-Tested Sources** - Rebuilt from Wayback snapshots of joonasprkl's legendary archive, plus GTAForums, Se7enSins, GTA Wiki, Discord communities, and extensive field testing.
 
 *The definitive, community-driven reference for **every** paint-related value in Grand Theft Auto Online.*
 
