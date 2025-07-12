@@ -25,6 +25,12 @@ Clone the entire repository to get the raw CSV files, which are ideal for data p
 
 `git clone https://github.com/webshoppe/gta-color-mapping-project.git`
 
+Optional: Set up our Python environment for data processing [requirements.txt](https://github.com/webshoppe/gta-color-mapping-project/blob/main/requirements.txt)
+
+`python -m venv venv`
+`source venv/bin/activate # Windows: venv\Scripts\activate`
+`pip install -r scripts/requirements.txt`
+
 ---
 
 ## 🗂️ Data Overview
