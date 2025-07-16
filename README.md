@@ -15,13 +15,21 @@ A comprehensive analysis of vehicle color data, complete with processing scripts
 
 ## 🚀 Quick Start → Get The Data
 
-### 1. Download the Master Spreadsheet (Recommended for most users)
+### A. Download the Master Spreadsheet (Recommended for most users)
 Grab the `.xlsx` and/or `.ods` files from our official Releases page. This includes all formatting, images, and tooltips.
 
 ➡️ **[Download the latest Release](https://github.com/webshoppe/gta-color-mapping-project/releases/latest)**
 
-### 2. Just want the data from the latest release? 
+### B. Just want the data from the latest release? 
 Get it from → [`data/output_csvs_flattened`](data/output_csvs_flattened)
+
+***Note on CSV Dataset Headers:*** <br>
+CSV files do not handle header cells with line breaks or multi-line text (as commonly used in Excel .xlsx files). If headers have embedded line breaks, it often causes errors or misalignments when exporting, importing or processing these files.
+
+To make our datasets robust and compatible with any tool, we flattened the headers by removing line breaks so every header is a single, continuous line of text.  This ensures the CSV files are easy to read, process and rebuild, without running into formatting issues or hidden errors.
+
+***In short:
+All CSV headers are now "flattened" (no line breaks) for maximum compatibility and hassle-free data processing.***
 
 ---
 
@@ -33,9 +41,23 @@ Clone the entire repository to get the raw CSV files, which are ideal for data p
 
 Optional: Set up our Python environment for data processing [`requirements.txt`](requirements.txt)
 
-`python -m venv venv`
-`source venv/bin/activate # Windows: venv\Scripts\activate`
+`py -3.12 -m venv venv`<br>
+
+**Activate:**
+
+Windows (CMD): `venv\Scripts\activate`<br>
+Windows (PowerShell): `venv\Scripts\Activate.ps1`<br>
+macOS/Linux: `source venv/bin/activate`<br>
+
+**Install requirements:**
+
 `pip install -r scripts/requirements.txt`
+
+At any time, leave the environment with:
+
+`deactivate`
+
+See the [full environment setup guide](./ENVIRONMENT_SETUP.md) for detailed help.
 
 ---
 
@@ -166,9 +188,9 @@ For the best results, use the `File > Import` method.
 
 ### Data Provenance
 This project rebuilds and expands upon:
-* **joonasprkl's legendary liverycolors archive** (2016-2020) – the foundation of GTA color mapping
-* **Community contributions** from GTAForums, Se7enSins, Reddit, and Discord
-* **DurtyFree's authoritative GTA data dumps** for color, vehicle and model hashing
+* **joonasprkl's legendary liverycolors archive** (2016-2020) – the foundation of GTA livery color mapping and matching
+* **Community contributions** from Fandom GTA Wiki, GTAForums, Se7enSins, Reddit and Discord
+* **DurtyFree's authoritative GTA data dumps** for official color, vehicle and model hashing
 * **Original research** by project maintainers and volunteer testers
 
 ---
